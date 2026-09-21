@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-09-21T22:54:43Z",
-  "notice": "Dates and names derived from the Wuthering Waves Wiki (wutheringwaves.fandom.com), CC BY-SA 3.0. Community-maintained and unofficial; times are Asia server time (UTC+8). Shop, patch notes, dev notes and maintenance have no structured source and are left empty.",
+  "lastUpdated": "2026-09-21T23:47:06Z",
+  "notice": "Dates, names and artwork from the Wuthering Waves Wiki (wutheringwaves.fandom.com), CC BY-SA 3.0. Community-maintained and unofficial; times are Asia server time (UTC+8). Version notes list each patch's banner line-up. Outfit prices are not published by the wiki. Dev notes and maintenance have no structured source and are left empty.",
   "versions": [
     {
       "number": "1.0",
@@ -218,7 +218,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/a/a7/Absolute_Pulsation_Verdant_Summit_2024-05-23.png/revision/latest/scale-to-width-down/640?cb=20240530145942",
       "note": null
     },
     {
@@ -236,7 +236,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/5/59/Prevail_the_Lasting_Night_2024-05-23.png/revision/latest/scale-to-width-down/640?cb=20240530143821",
       "note": null
     },
     {
@@ -254,7 +254,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/d/dd/Absolute_Pulsation_Stringmaster_2024-06-06.png/revision/latest/scale-to-width-down/640?cb=20240605102738",
       "note": null
     },
     {
@@ -272,7 +272,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/9/9b/When_Thunder_Pours_2024-06-06.png/revision/latest/scale-to-width-down/640?cb=20240605102234",
       "note": null
     },
     {
@@ -290,7 +290,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/d/d0/Absolute_Pulsation_Ages_of_Harvest_2024-06-28.png/revision/latest/scale-to-width-down/640?cb=20240703174826",
       "note": null
     },
     {
@@ -308,7 +308,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/3/32/Thawborn_Renewal_2024-06-28.png/revision/latest/scale-to-width-down/640?cb=20240703175307",
       "note": null
     },
     {
@@ -326,7 +326,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/e/e6/Absolute_Pulsation_Blazing_Brilliance_2024-07-22.png/revision/latest/scale-to-width-down/640?cb=20240721154748",
       "note": null
     },
     {
@@ -344,7 +344,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/9/9d/Vermillion%27s_Ploy_2024-07-22.png/revision/latest/scale-to-width-down/640?cb=20240721153031",
       "note": null
     },
     {
@@ -362,7 +362,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/e/e1/Absolute_Pulsation_Rime-Draped_Sprouts_2024-08-15.png/revision/latest/scale-to-width-down/640?cb=20240814072804",
       "note": null
     },
     {
@@ -380,7 +380,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/0/02/Chromatic_Prose_2024-08-15.png/revision/latest/scale-to-width-down/640?cb=20240814072430",
       "note": null
     },
     {
@@ -398,7 +398,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/3/3f/Absolute_Pulsation_Verity%27s_Handle_2024-09-07.png/revision/latest/scale-to-width-down/640?cb=20240906141333",
       "note": null
     },
     {
@@ -416,7 +416,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/e/e8/Celestial_Revelation_2024-09-07.png/revision/latest/scale-to-width-down/640?cb=20240906140844",
       "note": null
     },
     {
@@ -434,7 +434,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/e/e4/Absolute_Pulsation_Stellar_Symphony_2024-09-29.png/revision/latest/scale-to-width-down/640?cb=20240930190328",
       "note": null
     },
     {
@@ -452,7 +452,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/a/ad/Till_the_Sea_Turns_Clear_2024-09-29.png/revision/latest/scale-to-width-down/640?cb=20240928201624",
       "note": null
     },
     {
@@ -470,7 +470,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/1/10/Prevail_the_Lasting_Night_2024-10-24.png/revision/latest/scale-to-width-down/640?cb=20241023084950",
       "note": null
     },
     {
@@ -488,7 +488,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/6/60/Absolute_Pulsation_Verdant_Summit_2024-10-24.png/revision/latest/scale-to-width-down/640?cb=20241023091922",
       "note": null
     },
     {
@@ -506,7 +506,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/2/29/Absolute_Pulsation_Red_Spring_2024-11-14.jpg/revision/latest/scale-to-width-down/640?cb=20241114115544",
       "note": null
     },
     {
@@ -524,7 +524,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/2/2c/End_of_Lost_Trail_2024-11-14.jpg/revision/latest/scale-to-width-down/640?cb=20241114114229",
       "note": null
     },
     {
@@ -542,7 +542,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/8/89/Absolute_Pulsation_Stringmaster_2024-12-12.jpg/revision/latest/scale-to-width-down/640?cb=20241211064420",
       "note": null
     },
     {
@@ -560,7 +560,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/d/d3/Absolute_Pulsation_Verity%27s_Handle_2024-12-12.jpg/revision/latest/scale-to-width-down/640?cb=20241211064414",
       "note": null
     },
     {
@@ -578,7 +578,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/9/91/Celestial_Revelation_2024-12-12.jpg/revision/latest/scale-to-width-down/640?cb=20241211064401",
       "note": null
     },
     {
@@ -596,7 +596,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/2/27/When_Thunder_Pours_2024-12-12.jpg/revision/latest/scale-to-width-down/640?cb=20241211064407",
       "note": null
     },
     {
@@ -614,7 +614,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/d/d6/Absolute_Pulsation_Rime-Draped_Sprouts_2025-01-02.jpg/revision/latest/scale-to-width-down/640?cb=20250101083823",
       "note": null
     },
     {
@@ -632,7 +632,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/e/ec/Absolute_Pulsation_The_Last_Dance_2025-01-02.jpg/revision/latest/scale-to-width-down/640?cb=20250101083808",
       "note": null
     },
     {
@@ -650,7 +650,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/2/28/Chromatic_Prose_2025-01-02.jpg/revision/latest/scale-to-width-down/640?cb=20250101083751",
       "note": null
     },
     {
@@ -668,7 +668,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/2/23/When_Silence_Tolls_2025-01-02.jpg/revision/latest/scale-to-width-down/640?cb=20250101083727",
       "note": null
     },
     {
@@ -686,7 +686,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/a/a0/Absolute_Pulsation_Ages_of_Harvest_2025-01-23.jpg/revision/latest/scale-to-width-down/640?cb=20250122071502",
       "note": null
     },
     {
@@ -704,7 +704,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/e/e0/Absolute_Pulsation_Tragicomedy_2025-01-23.jpg/revision/latest/scale-to-width-down/640?cb=20250122071547",
       "note": null
     },
     {
@@ -722,7 +722,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/e/e8/Stage_in_the_Box_2025-01-23.jpg/revision/latest/scale-to-width-down/640?cb=20250122063033",
       "note": null
     },
     {
@@ -740,7 +740,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/4/44/Thawborn_Renewal_2025-01-23.jpg/revision/latest/scale-to-width-down/640?cb=20250122062857",
       "note": null
     },
     {
@@ -758,7 +758,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/1/18/Absolute_Pulsation_Luminous_Hymn_2025-02-13.jpg/revision/latest/scale-to-width-down/640?cb=20250213002505",
       "note": null
     },
     {
@@ -776,7 +776,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/f/f8/With_Hushed_Whispers_2025-02-13.jpg/revision/latest/scale-to-width-down/640?cb=20250212162440",
       "note": null
     },
     {
@@ -794,7 +794,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/c/cd/Absolute_Pulsation_Blazing_Brilliance_2025-03-06.jpg/revision/latest/scale-to-width-down/640?cb=20250305093021",
       "note": null
     },
     {
@@ -812,7 +812,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/0/0c/Absolute_Pulsation_Unflickering_Valor_2025-03-06.jpg/revision/latest/scale-to-width-down/640?cb=20250305093329",
       "note": null
     },
     {
@@ -830,7 +830,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/b/be/Blaze_Across_the_Deep_2025-03-06.jpg/revision/latest/scale-to-width-down/640?cb=20250305073817",
       "note": null
     },
     {
@@ -848,7 +848,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/0/01/Vermillion%27s_Ploy_2025-03-06.jpg/revision/latest/scale-to-width-down/640?cb=20250305073449",
       "note": null
     },
     {
@@ -866,7 +866,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/3/3f/Absolute_Pulsation_Red_Spring_2025-03-27.jpg/revision/latest/scale-to-width-down/640?cb=20250327040518",
       "note": null
     },
     {
@@ -884,7 +884,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/0/0b/Absolute_Pulsation_Whispers_of_Sirens_2025-03-27.jpg/revision/latest/scale-to-width-down/640?cb=20250327040520",
       "note": null
     },
     {
@@ -902,7 +902,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/e/e4/End_of_Lost_Trail_2025-03-27.jpg/revision/latest/scale-to-width-down/640?cb=20250327034815",
       "note": null
     },
     {
@@ -920,7 +920,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/e/ef/Neptune%27s_Lullaby_2025-03-27.jpg/revision/latest/scale-to-width-down/640?cb=20250326153957",
       "note": null
     },
     {
@@ -938,7 +938,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/7/72/Absolute_Pulsation_Stellar_Symphony_2025-04-17.jpg/revision/latest/scale-to-width-down/640?cb=20250416084542",
       "note": null
     },
     {
@@ -956,7 +956,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/d/dd/Till_the_Sea_Turns_Clear_2025-04-17.jpg/revision/latest/scale-to-width-down/640?cb=20250416085139",
       "note": null
     },
     {
@@ -974,7 +974,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/a/a8/Absolute_Pulsation_Blazing_Justice_2025-04-29.jpg/revision/latest/scale-to-width-down/640?cb=20250429024024",
       "note": null
     },
     {
@@ -992,7 +992,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/e/e9/Between_Light_and_Shadow_2025-04-29.jpg/revision/latest/scale-to-width-down/640?cb=20250428124340",
       "note": null
     },
     {
@@ -1010,7 +1010,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/4/4c/Absolute_Pulsation_Woodland_Aria_2025-05-22.jpg/revision/latest/scale-to-width-down/640?cb=20250521101224",
       "note": null
     },
     {
@@ -1028,7 +1028,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/1/1c/Through_Verses_and_Rhythms_2025-05-22.jpg/revision/latest/scale-to-width-down/640?cb=20250521101318",
       "note": null
     },
     {
@@ -1046,7 +1046,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/e/e5/Absolute_Pulsation_Defier%27s_Thorn_2025-06-12.jpg/revision/latest/scale-to-width-down/640?cb=20250611060355",
       "note": null
     },
     {
@@ -1064,7 +1064,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/d/df/Dance_in_the_Storm%27s_Wake_2025-06-12.jpg/revision/latest/scale-to-width-down/640?cb=20250611060342",
       "note": null
     },
     {
@@ -1082,7 +1082,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/3/34/Absolute_Pulsation_Wildfire_Mark_2025-07-03.jpg/revision/latest/scale-to-width-down/640?cb=20250702094036",
       "note": null
     },
     {
@@ -1100,7 +1100,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/2/24/Roar_of_Triumph_2025-07-03.jpg/revision/latest/scale-to-width-down/640?cb=20250702094206",
       "note": null
     },
     {
@@ -1118,7 +1118,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/b/b0/Absolute_Pulsation_Lethean_Elegy_2025-07-24.jpg/revision/latest/scale-to-width-down/640?cb=20250723182248",
       "note": null
     },
     {
@@ -1136,7 +1136,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/6/69/Absolute_Pulsation_Tragicomedy_2025-07-24.jpg/revision/latest/scale-to-width-down/640?cb=20250723182250",
       "note": null
     },
     {
@@ -1154,7 +1154,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/e/e4/Requiem_Without_End_2025-07-24.jpg/revision/latest/scale-to-width-down/640?cb=20250723182049",
       "note": null
     },
     {
@@ -1172,7 +1172,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/4/4a/Stage_in_the_Box_2025-07-24.jpg/revision/latest/scale-to-width-down/640?cb=20250723182051",
       "note": null
     },
     {
@@ -1190,7 +1190,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/3/34/Absolute_Pulsation_Unflickering_Valor_2025-08-14.jpg/revision/latest/scale-to-width-down/640?cb=20250813225236",
       "note": null
     },
     {
@@ -1208,7 +1208,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/7/7b/Absolute_Pulsation_Whispers_of_Sirens_2025-08-14.jpg/revision/latest/scale-to-width-down/640?cb=20250813224915",
       "note": null
     },
     {
@@ -1226,7 +1226,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/6/6d/Blaze_Across_the_Deep_2025-08-14.jpg/revision/latest/scale-to-width-down/640?cb=20250813215935",
       "note": null
     },
     {
@@ -1244,7 +1244,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/0/0b/Neptune%27s_Lullaby_2025-08-14.jpg/revision/latest/scale-to-width-down/640?cb=20250813215311",
       "note": null
     },
     {
@@ -1262,7 +1262,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/b/bd/Absolute_Pulsation_Stellar_Symphony_2025-08-28.jpg/revision/latest/scale-to-width-down/640?cb=20250827190449",
       "note": null
     },
     {
@@ -1280,7 +1280,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/7/7a/Absolute_Pulsation_The_Last_Dance_2025-08-28.jpg/revision/latest/scale-to-width-down/640?cb=20250827190447",
       "note": null
     },
     {
@@ -1298,7 +1298,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/c/cd/Absolute_Pulsation_Thunderflare_Dominion_2025-08-28.jpg/revision/latest/scale-to-width-down/640?cb=20250827190446",
       "note": null
     },
     {
@@ -1316,7 +1316,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/e/ea/Eternal_Radiance_on_the_Crown_2025-08-28.jpg/revision/latest/scale-to-width-down/640?cb=20250827183810",
       "note": null
     },
     {
@@ -1334,7 +1334,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/a/a3/Till_the_Sea_Turns_Clear_2025-08-28.jpg/revision/latest/scale-to-width-down/640?cb=20250827183809",
       "note": null
     },
     {
@@ -1352,7 +1352,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/a/ae/When_Silence_Tolls_2025-08-28.jpg/revision/latest/scale-to-width-down/640?cb=20250827183807",
       "note": null
     },
     {
@@ -1370,7 +1370,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/d/d9/Absolute_Pulsation_Moongazer%27s_Sigil_2025-09-17.jpg/revision/latest/scale-to-width-down/640?cb=20250918073745",
       "note": null
     },
     {
@@ -1388,7 +1388,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/7/75/Absolute_Pulsation_Woodland_Aria_2025-09-17.jpg/revision/latest/scale-to-width-down/640?cb=20250918073752",
       "note": null
     },
     {
@@ -1406,7 +1406,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/0/03/Across_Time%27s_Waxes_and_Wanes_2025-09-17.jpg/revision/latest/scale-to-width-down/640?cb=20250918071143",
       "note": null
     },
     {
@@ -1424,7 +1424,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/e/e5/Through_Verses_and_Rhythms_2025-09-17.jpg/revision/latest/scale-to-width-down/640?cb=20250918071728",
       "note": null
     },
     {
@@ -1442,7 +1442,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/2/20/Absolute_Pulsation_Lux_%26_Umbra_2025-10-09.jpg/revision/latest/scale-to-width-down/640?cb=20251009012509",
       "note": null
     },
     {
@@ -1460,7 +1460,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/a/a2/Absolute_Pulsation_Wildfire_Mark_2025-10-09.jpg/revision/latest/scale-to-width-down/640?cb=20251009012708",
       "note": null
     },
     {
@@ -1478,7 +1478,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/e/e1/From_Ashes_2025-10-09.jpg/revision/latest/scale-to-width-down/640?cb=20251009012156",
       "note": null
     },
     {
@@ -1496,7 +1496,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/2/21/Roar_of_Triumph_2025-10-09.jpg/revision/latest/scale-to-width-down/640?cb=20251009012312",
       "note": null
     },
     {
@@ -1514,7 +1514,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/9/95/Absolute_Pulsation_Blazing_Justice_2025-10-30.jpg/revision/latest/scale-to-width-down/640?cb=20251030005348",
       "note": null
     },
     {
@@ -1532,7 +1532,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/a/a0/Absolute_Pulsation_Emerald_Sentence_2025-10-30.jpg/revision/latest/scale-to-width-down/640?cb=20251030010205",
       "note": null
     },
     {
@@ -1550,7 +1550,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/d/dd/Between_Light_and_Shadow_2025-10-30.jpg/revision/latest/scale-to-width-down/640?cb=20251029151644",
       "note": null
     },
     {
@@ -1568,7 +1568,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/c/c2/Wanderer_Knows_No_Far_and_Near_2025-10-30.jpg/revision/latest/scale-to-width-down/640?cb=20251029151641",
       "note": null
     },
     {
@@ -1586,7 +1586,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/1/1d/Absolute_Pulsation_Kumokiri_2025-11-20.jpg/revision/latest/scale-to-width-down/640?cb=20251119124438",
       "note": null
     },
     {
@@ -1604,7 +1604,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/3/3d/Absolute_Pulsation_Luminous_Hymn_2025-11-20.jpg/revision/latest/scale-to-width-down/640?cb=20251119124445",
       "note": null
     },
     {
@@ -1622,7 +1622,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/1/1f/Horizon_of_Dawnbreak_2025-11-20.jpg/revision/latest/scale-to-width-down/640?cb=20251119082051",
       "note": null
     },
     {
@@ -1640,7 +1640,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/b/b7/With_Hushed_Whispers_2025-11-20.jpg/revision/latest/scale-to-width-down/640?cb=20251119121649",
       "note": null
     },
     {
@@ -1658,7 +1658,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/3/30/Absolute_Pulsation_Lethean_Elegy_2025-12-11.jpg/revision/latest/scale-to-width-down/640?cb=20251210152916",
       "note": null
     },
     {
@@ -1676,7 +1676,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/3/36/Absolute_Pulsation_Whispers_of_Sirens_2025-12-11.jpg/revision/latest/scale-to-width-down/640?cb=20251210152712",
       "note": null
     },
     {
@@ -1694,7 +1694,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/f/fd/Neptune%27s_Lullaby_2025-12-11.jpg/revision/latest/scale-to-width-down/640?cb=20251210150236",
       "note": null
     },
     {
@@ -1712,7 +1712,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/4/42/Requiem_Without_End_2025-12-11.jpg/revision/latest/scale-to-width-down/640?cb=20251210150115",
       "note": null
     },
     {
@@ -1730,7 +1730,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/3/36/Absolute_Pulsation_Defier%27s_Thorn_2025-12-25.jpg/revision/latest/scale-to-width-down/640?cb=20251224165011",
       "note": null
     },
     {
@@ -1748,7 +1748,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/4/41/Absolute_Pulsation_Spectrum_Blaster_2025-12-25.jpg/revision/latest/scale-to-width-down/640?cb=20251224165007",
       "note": null
     },
     {
@@ -1766,7 +1766,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/9/9a/Absolute_Pulsation_Woodland_Aria_2025-12-25.jpg/revision/latest/scale-to-width-down/640?cb=20251224165001",
       "note": null
     },
     {
@@ -1784,7 +1784,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/d/d9/Dance_in_the_Storm%27s_Wake_2025-12-25.jpg/revision/latest/scale-to-width-down/640?cb=20251224165522",
       "note": null
     },
     {
@@ -1802,7 +1802,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/6/64/Through_Verses_and_Rhythms_2025-12-25.jpg/revision/latest/scale-to-width-down/640?cb=20251224165507",
       "note": null
     },
     {
@@ -1820,7 +1820,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/0/0f/Undefined_Spectrum_2025-12-25.jpg/revision/latest/scale-to-width-down/640?cb=20251224051113",
       "note": null
     },
     {
@@ -1838,7 +1838,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/9/95/Absolute_Pulsation_Moongazer%27s_Sigil_2026-01-15.jpg/revision/latest/scale-to-width-down/640?cb=20260115181057",
       "note": null
     },
     {
@@ -1856,7 +1856,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/c/cf/Absolute_Pulsation_Starfield_Calibrator_2026-01-15.jpg/revision/latest/scale-to-width-down/640?cb=20260115181050",
       "note": null
     },
     {
@@ -1874,7 +1874,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/1/19/Absolute_Pulsation_Thunderflare_Dominion_2026-01-15.jpg/revision/latest/scale-to-width-down/640?cb=20260115181053",
       "note": null
     },
     {
@@ -1892,7 +1892,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/3/35/Across_Time%27s_Waxes_and_Wanes_2026-01-15.jpg/revision/latest/scale-to-width-down/640?cb=20260115090843",
       "note": null
     },
     {
@@ -1910,7 +1910,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/0/0a/Distant_May_the_Starlights_Be_2026-01-15.jpg/revision/latest/scale-to-width-down/640?cb=20260115032742",
       "note": null
     },
     {
@@ -1928,7 +1928,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/f/f4/Eternal_Radiance_on_the_Crown_2026-01-15.jpg/revision/latest/scale-to-width-down/640?cb=20260115090839",
       "note": null
     },
     {
@@ -1946,7 +1946,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/1/1b/Absolute_Pulsation_Everbright_Polestar_2026-02-05.jpg/revision/latest/scale-to-width-down/640?cb=20260205190459",
       "note": null
     },
     {
@@ -1964,7 +1964,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/b/b8/Absolute_Pulsation_Kumokiri_2026-02-05.jpg/revision/latest/scale-to-width-down/640?cb=20260205190430",
       "note": null
     },
     {
@@ -1982,7 +1982,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/9/9e/Absolute_Pulsation_Wildfire_Mark_2026-02-05.jpg/revision/latest/scale-to-width-down/640?cb=20260205190439",
       "note": null
     },
     {
@@ -2000,7 +2000,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/7/79/Horizon_of_Dawnbreak_2026-02-05.jpg/revision/latest/scale-to-width-down/640?cb=20260204221658",
       "note": null
     },
     {
@@ -2018,7 +2018,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/1/14/Roar_of_Triumph_2026-02-05.jpg/revision/latest/scale-to-width-down/640?cb=20260204221829",
       "note": null
     },
     {
@@ -2036,7 +2036,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/5/58/Take_Flight_in_Spring_2026-02-05.jpg/revision/latest/scale-to-width-down/640?cb=20260204222344",
       "note": null
     },
     {
@@ -2054,7 +2054,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/7/78/Absolute_Pulsation_Daybreaker%27s_Spine_2026-02-26.jpg/revision/latest/scale-to-width-down/640?cb=20260226211233",
       "note": null
     },
     {
@@ -2072,7 +2072,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/0/0a/Absolute_Pulsation_Lux_%26_Umbra_2026-02-26.jpg/revision/latest/scale-to-width-down/640?cb=20260227040315",
       "note": null
     },
     {
@@ -2090,7 +2090,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/3/31/From_Ashes_2026-02-26.jpg/revision/latest/scale-to-width-down/640?cb=20260226210455",
       "note": null
     },
     {
@@ -2108,7 +2108,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/3/38/When_Winter_Thaws_2026-02-26.jpg/revision/latest/scale-to-width-down/640?cb=20260226204434",
       "note": null
     },
     {
@@ -2126,7 +2126,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/9/9f/Absolute_Pulsation_Emerald_Sentence_2026-03-19.jpg/revision/latest/scale-to-width-down/640?cb=20260320163311",
       "note": null
     },
     {
@@ -2144,7 +2144,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/a/a9/Absolute_Pulsation_Solsworn_Ciphers_2026-03-19.jpg/revision/latest/scale-to-width-down/640?cb=20260320162720",
       "note": null
     },
     {
@@ -2162,7 +2162,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/7/78/Wanderer_Knows_No_Far_and_Near_2026-03-19.jpg/revision/latest/scale-to-width-down/640?cb=20260320160505",
       "note": null
     },
     {
@@ -2180,7 +2180,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/b/ba/When_the_Runes_Glitter_2026-03-19.jpg/revision/latest/scale-to-width-down/640?cb=20260320154235",
       "note": null
     },
     {
@@ -2198,7 +2198,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/b/bc/Absolute_Pulsation_Blazing_Justice_2026-04-09.jpg/revision/latest/scale-to-width-down/640?cb=20260410182205",
       "note": null
     },
     {
@@ -2216,7 +2216,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/9/9c/Absolute_Pulsation_Luminous_Hymn_2026-04-09.jpg/revision/latest/scale-to-width-down/640?cb=20260410182523",
       "note": null
     },
     {
@@ -2234,7 +2234,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/6/64/Absolute_Pulsation_Spectrum_Blaster_2026-04-09.jpg/revision/latest/scale-to-width-down/640?cb=20260410181655",
       "note": null
     },
     {
@@ -2252,7 +2252,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/f/f5/Between_Light_and_Shadow_2026-04-09.jpg/revision/latest/scale-to-width-down/640?cb=20260408233817",
       "note": null
     },
     {
@@ -2270,7 +2270,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/7/7a/Undefined_Spectrum_2026-04-09.jpg/revision/latest/scale-to-width-down/640?cb=20260408233716",
       "note": null
     },
     {
@@ -2288,7 +2288,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/a/a3/With_Hushed_Whispers_2026-04-09.jpg/revision/latest/scale-to-width-down/640?cb=20260408233922",
       "note": null
     },
     {
@@ -2306,7 +2306,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/a/a2/Across_Time%27s_Waxes_and_Wanes_2026-04-30.jpg/revision/latest/scale-to-width-down/640?cb=20260430153647",
       "note": null
     },
     {
@@ -2324,7 +2324,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/5/55/Distant_May_the_Starlights_Be_2026-04-30.jpg/revision/latest/scale-to-width-down/640?cb=20260430153002",
       "note": null
     },
     {
@@ -2342,7 +2342,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/5/50/Thousand_Futures_Mirrored_in_Snow_2026-04-30.jpg/revision/latest/scale-to-width-down/640?cb=20260430150631",
       "note": null
     },
     {
@@ -2360,7 +2360,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/8/8f/Absolute_Pulsation_Frostburn_2026-04-30.jpg/revision/latest/scale-to-width-down/640?cb=20260502205604",
       "note": null
     },
     {
@@ -2378,7 +2378,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/e/ec/Absolute_Pulsation_Moongazer%27s_Sigil_2026-04-30.jpg/revision/latest/scale-to-width-down/640?cb=20260502205703",
       "note": null
     },
     {
@@ -2396,7 +2396,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/1/17/Absolute_Pulsation_Starfield_Calibrator_2026-04-30.jpg/revision/latest/scale-to-width-down/640?cb=20260502205943",
       "note": null
     },
     {
@@ -2414,7 +2414,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/8/82/Absolute_Pulsation_Forged_Dwarf_Star_2026-05-21.jpg/revision/latest/scale-to-width-down/640?cb=20260520133907",
       "note": null
     },
     {
@@ -2432,7 +2432,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/0/04/Absolute_Pulsation_Kumokiri_2026-05-21.jpg/revision/latest/scale-to-width-down/640?cb=20260520133502",
       "note": null
     },
     {
@@ -2450,7 +2450,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/6/6a/Absolute_Pulsation_Lethean_Elegy_2026-05-21.jpg/revision/latest/scale-to-width-down/640?cb=20260520134456",
       "note": null
     },
     {
@@ -2468,7 +2468,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/b/bd/False_Promise_for_Tomorrow_2026-05-21.jpg/revision/latest/scale-to-width-down/640?cb=20260520041851",
       "note": null
     },
     {
@@ -2486,7 +2486,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/0/0e/Horizon_of_Dawnbreak_2026-05-21.jpg/revision/latest/scale-to-width-down/640?cb=20260522192451",
       "note": null
     },
     {
@@ -2504,7 +2504,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/4/4f/Requiem_Without_End_2026-05-21.jpg/revision/latest/scale-to-width-down/640?cb=20260522192334",
       "note": null
     },
     {
@@ -2522,7 +2522,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/7/78/Absolute_Pulsation_Freeze_Frame_2026-06-13.jpg/revision/latest/scale-to-width-down/640?cb=20260613062111",
       "note": null
     },
     {
@@ -2540,7 +2540,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/4/46/Tomorrow_in_the_Frame_2026-06-13.jpg/revision/latest/scale-to-width-down/640?cb=20260613062227",
       "note": null
     },
     {
@@ -2558,7 +2558,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/7/7f/Absolute_Pulsation_Defier%27s_Thorn_2026-06-18.jpg/revision/latest/scale-to-width-down/640?cb=20260617233046",
       "note": null
     },
     {
@@ -2576,7 +2576,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/6/6a/Dance_in_the_Storm%27s_Wake_2026-06-18.jpg/revision/latest/scale-to-width-down/640?cb=20260617232724",
       "note": null
     },
     {
@@ -2594,7 +2594,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/2/2e/Absolute_Pulsation_Azure_Oath_2026-07-10.jpg/revision/latest/scale-to-width-down/640?cb=20260709060441",
       "note": null
     },
     {
@@ -2612,7 +2612,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/1/14/Absolute_Pulsation_Daybreaker%27s_Spine_2026-07-10.jpg/revision/latest/scale-to-width-down/640?cb=20260710082205",
       "note": null
     },
     {
@@ -2630,7 +2630,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/f/fd/Absolute_Pulsation_Spectrum_Blaster_2026-07-10.jpg/revision/latest/scale-to-width-down/640?cb=20260710081403",
       "note": null
     },
     {
@@ -2648,7 +2648,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/1/1d/Undefined_Spectrum_2026-07-10.jpg/revision/latest/scale-to-width-down/640?cb=20260710075211",
       "note": null
     },
     {
@@ -2666,7 +2666,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/f/f0/Voices_on_Azure_Feathers_2026-07-10.jpg/revision/latest/scale-to-width-down/640?cb=20260709054739",
       "note": null
     },
     {
@@ -2684,7 +2684,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/3/3b/When_Winter_Thaws_2026-07-10.jpg/revision/latest/scale-to-width-down/640?cb=20260710075729",
       "note": null
     },
     {
@@ -2702,7 +2702,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/5/50/Absolute_Pulsation_Everbright_Polestar_2026-07-30.jpg/revision/latest/scale-to-width-down/640?cb=20260805130442",
       "note": null
     },
     {
@@ -2720,7 +2720,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/d/da/Absolute_Pulsation_Firstlight%27s_Herald_2026-07-30.jpg/revision/latest/scale-to-width-down/640?cb=20260805130312",
       "note": null
     },
     {
@@ -2738,7 +2738,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/8/85/Blessings_From_Dewy_Winds_2026-07-30.jpg/revision/latest/scale-to-width-down/640?cb=20260730092052",
       "note": null
     },
     {
@@ -2756,7 +2756,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/9/9c/Take_Flight_in_Spring_2026-07-30.jpg/revision/latest/scale-to-width-down/640?cb=20260730092002",
       "note": null
     },
     {
@@ -2774,7 +2774,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/5/57/Absolute_Pulsation_Forged_Dwarf_Star_2026-08-20.jpg/revision/latest/scale-to-width-down/640?cb=20260821050427",
       "note": null
     },
     {
@@ -2792,7 +2792,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/a/ab/Absolute_Pulsation_Glint_of_Clouds_2026-08-20.jpg/revision/latest/scale-to-width-down/640?cb=20260821050431",
       "note": null
     },
     {
@@ -2810,7 +2810,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/5/57/False_Promise_for_Tomorrow_2026-08-20.jpg/revision/latest/scale-to-width-down/640?cb=20260819083746",
       "note": null
     },
     {
@@ -2828,7 +2828,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/6/69/Wind_of_Transcendence_2026-08-20.jpg/revision/latest/scale-to-width-down/640?cb=20260819083822",
       "note": null
     },
     {
@@ -2846,7 +2846,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/f/fb/Absolute_Pulsation_Frostburn_2026-09-10.jpg/revision/latest/scale-to-width-down/640?cb=20260919130404",
       "note": null
     },
     {
@@ -2864,7 +2864,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/d/d2/Absolute_Pulsation_Starfield_Calibrator_2026-09-10.jpg/revision/latest/scale-to-width-down/640?cb=20260919130322",
       "note": null
     },
     {
@@ -2882,7 +2882,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/4/43/Absolute_Pulsation_Thousandfold_Deliverance_2026-09-10.jpg/revision/latest/scale-to-width-down/640?cb=20260919130428",
       "note": null
     },
     {
@@ -2900,7 +2900,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/e/ea/Distant_May_the_Starlights_Be_2026-09-10.jpg/revision/latest/scale-to-width-down/640?cb=20260919130045",
       "note": null
     },
     {
@@ -2918,7 +2918,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/0/0b/Thousand_Futures_Mirrored_in_Snow_2026-09-10.jpg/revision/latest/scale-to-width-down/640?cb=20260919130150",
       "note": null
     },
     {
@@ -2936,7 +2936,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/c/c0/Where_Santu_Beckons_2026-09-10.jpg/revision/latest/scale-to-width-down/640?cb=20260919125928",
       "note": null
     }
   ],
@@ -3514,7 +3514,890 @@
       ]
     }
   ],
-  "shop": [],
+  "shop": [
+    {
+      "id": "homebound-sigrika",
+      "name": "\"Homebound\"",
+      "category": "OUTFIT",
+      "character": "Sigrika",
+      "price": null,
+      "currency": null,
+      "availability": "PERMANENT",
+      "start": "2026-03-19",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/7/7c/Sigrika_Full_Sprite.png/revision/latest/scale-to-width-down/480?cb=20260314162517",
+      "isSample": false
+    },
+    {
+      "id": "a-moment-s-notice-chixia",
+      "name": "A Moment's Notice",
+      "category": "OUTFIT",
+      "character": "Chixia",
+      "price": null,
+      "currency": null,
+      "availability": "PERMANENT",
+      "start": "2024-05-23",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/8/87/Chixia_Full_Sprite.png/revision/latest/scale-to-width-down/480?cb=20240202080517",
+      "isSample": false
+    },
+    {
+      "id": "a-pure-heart-youhu",
+      "name": "A Pure Heart",
+      "category": "OUTFIT",
+      "character": "Youhu",
+      "price": null,
+      "currency": null,
+      "availability": "PERMANENT",
+      "start": "2024-10-24",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/2/27/Youhu_Full_Sprite.png/revision/latest/scale-to-width-down/480?cb=20241024101158",
+      "isSample": false
+    },
+    {
+      "id": "a-quiet-moment-taoqi",
+      "name": "A Quiet Moment",
+      "category": "OUTFIT",
+      "character": "Taoqi",
+      "price": null,
+      "currency": null,
+      "availability": "PERMANENT",
+      "start": "2024-05-23",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/1/18/Taoqi_Full_Sprite.png/revision/latest/scale-to-width-down/480?cb=20240202080916",
+      "isSample": false
+    },
+    {
+      "id": "a-step-forward-mornye",
+      "name": "A Step Forward",
+      "category": "OUTFIT",
+      "character": "Mornye",
+      "price": null,
+      "currency": null,
+      "availability": "PERMANENT",
+      "start": "2026-01-15",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/d/db/Mornye_Full_Sprite.png/revision/latest/scale-to-width-down/480?cb=20260101051234",
+      "isSample": false
+    },
+    {
+      "id": "a-winged-song-yangyang",
+      "name": "A Winged Song",
+      "category": "OUTFIT",
+      "character": "Yangyang",
+      "price": null,
+      "currency": null,
+      "availability": "PERMANENT",
+      "start": "2024-05-23",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/d/d0/Yangyang_Full_Sprite.png/revision/latest/scale-to-width-down/480?cb=20240703175222",
+      "isSample": false
+    },
+    {
+      "id": "abyssal-ascension-jinhsi",
+      "name": "Abyssal Ascension",
+      "category": "OUTFIT",
+      "character": "Jinhsi",
+      "price": null,
+      "currency": null,
+      "availability": "PERMANENT",
+      "start": "2024-06-28",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/b/b2/Jinhsi_Full_Sprite.png/revision/latest/scale-to-width-down/480?cb=20251017041901",
+      "isSample": false
+    },
+    {
+      "id": "always-and-ever-shorekeeper",
+      "name": "Always and Ever",
+      "category": "OUTFIT",
+      "character": "Shorekeeper",
+      "price": null,
+      "currency": null,
+      "availability": "PERMANENT",
+      "start": "2024-09-29",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/8/8c/Shorekeeper_Full_Sprite.png/revision/latest/scale-to-width-down/480?cb=20241001031343",
+      "isSample": false
+    },
+    {
+      "id": "an-elegant-cut-yuanwu",
+      "name": "An Elegant Cut",
+      "category": "OUTFIT",
+      "character": "Yuanwu",
+      "price": null,
+      "currency": null,
+      "availability": "PERMANENT",
+      "start": "2024-05-23",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/1/17/Yuanwu_Full_Sprite.png/revision/latest/scale-to-width-down/480?cb=20240202081324",
+      "isSample": false
+    },
+    {
+      "id": "asura-s-struggle-sanhua",
+      "name": "Asura's Struggle",
+      "category": "OUTFIT",
+      "character": "Sanhua",
+      "price": null,
+      "currency": null,
+      "availability": "PERMANENT",
+      "start": "2024-05-23",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/9/94/Sanhua_Full_Sprite.png/revision/latest/scale-to-width-down/480?cb=20240218224717",
+      "isSample": false
+    },
+    {
+      "id": "bearer-of-legend-augusta",
+      "name": "Bearer of Legend",
+      "category": "OUTFIT",
+      "character": "Augusta",
+      "price": null,
+      "currency": null,
+      "availability": "PERMANENT",
+      "start": "2025-08-28",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/b/b5/Augusta_Full_Sprite.png/revision/latest/scale-to-width-down/480?cb=20250827031647",
+      "isSample": false
+    },
+    {
+      "id": "blooming-glory-baizhi",
+      "name": "Blooming Glory",
+      "category": "OUTFIT",
+      "character": "Baizhi",
+      "price": null,
+      "currency": null,
+      "availability": "PERMANENT",
+      "start": "2024-05-23",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/c/cc/Baizhi_Full_Sprite.png/revision/latest/scale-to-width-down/480?cb=20240202080219",
+      "isSample": false
+    },
+    {
+      "id": "blooming-spectrum-lynae",
+      "name": "Blooming Spectrum",
+      "category": "OUTFIT",
+      "character": "Lynae",
+      "price": null,
+      "currency": null,
+      "availability": "PERMANENT",
+      "start": "2025-12-25",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/7/72/Lynae_Full_Sprite.png/revision/latest/scale-to-width-down/480?cb=20260101051310",
+      "isSample": false
+    },
+    {
+      "id": "boundless-azure-yangyang-xuanling",
+      "name": "Boundless Azure",
+      "category": "OUTFIT",
+      "character": "Yangyang: Xuanling",
+      "price": null,
+      "currency": null,
+      "availability": "PERMANENT",
+      "start": "2026-07-10",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/0/01/Yangyang_Xuanling_Full_Sprite.png/revision/latest/scale-to-width-down/480?cb=20260725151912",
+      "isSample": false
+    },
+    {
+      "id": "budding-green-verina",
+      "name": "Budding Green",
+      "category": "OUTFIT",
+      "character": "Verina",
+      "price": null,
+      "currency": null,
+      "availability": "PERMANENT",
+      "start": "2024-05-23",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/a/ab/Verina_Full_Sprite.png/revision/latest/scale-to-width-down/480?cb=20260710080959",
+      "isSample": false
+    },
+    {
+      "id": "casual-lucilla",
+      "name": "Casual",
+      "category": "OUTFIT",
+      "character": "Lucilla",
+      "price": null,
+      "currency": null,
+      "availability": "PERMANENT",
+      "start": "2026-06-13",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/8/88/Lucilla_Full_Sprite.png/revision/latest/scale-to-width-down/480?cb=20260613213337",
+      "isSample": false
+    },
+    {
+      "id": "clinical-gold-luuk-herssen",
+      "name": "Clinical Gold",
+      "category": "OUTFIT",
+      "character": "Luuk Herssen",
+      "price": null,
+      "currency": null,
+      "availability": "PERMANENT",
+      "start": "2026-02-26",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/2/22/Luuk_Herssen_Full_Sprite.png/revision/latest/scale-to-width-down/480?cb=20260204133211",
+      "isSample": false
+    },
+    {
+      "id": "cyberpunk-lucy",
+      "name": "Cyberpunk",
+      "category": "OUTFIT",
+      "character": "Lucy",
+      "price": null,
+      "currency": null,
+      "availability": "PERMANENT",
+      "start": "2026-06-08",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/c/cb/Lucy_Full_Sprite.png/revision/latest/scale-to-width-down/480?cb=20260608193408",
+      "isSample": false
+    },
+    {
+      "id": "cyberpunk-rebecca",
+      "name": "Cyberpunk",
+      "category": "OUTFIT",
+      "character": "Rebecca",
+      "price": null,
+      "currency": null,
+      "availability": "PERMANENT",
+      "start": "2026-06-08",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/5/5d/Rebecca_Full_Sprite.png/revision/latest/scale-to-width-down/480?cb=20260608193542",
+      "isSample": false
+    },
+    {
+      "id": "dancing-lion-s-blessing-lingyang",
+      "name": "Dancing Lion's Blessing",
+      "category": "OUTFIT",
+      "character": "Lingyang",
+      "price": null,
+      "currency": null,
+      "availability": "PERMANENT",
+      "start": "2024-05-23",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/3/36/Lingyang_Full_Sprite.png/revision/latest/scale-to-width-down/480?cb=20240502113913",
+      "isSample": false
+    },
+    {
+      "id": "daybreak-horizon-zani",
+      "name": "Daybreak Horizon",
+      "category": "OUTFIT",
+      "character": "Zani",
+      "price": null,
+      "currency": null,
+      "availability": "PERMANENT",
+      "start": "2025-04-29",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/e/ea/Zani_Full_Sprite.png/revision/latest/scale-to-width-down/480?cb=20250427051211",
+      "isSample": false
+    },
+    {
+      "id": "decorated-shell-denia",
+      "name": "Decorated Shell",
+      "category": "OUTFIT",
+      "character": "Denia",
+      "price": null,
+      "currency": null,
+      "availability": "PERMANENT",
+      "start": "2026-05-21",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/b/b8/Denia_Full_Sprite.png/revision/latest/scale-to-width-down/480?cb=20260521062738",
+      "isSample": false
+    },
+    {
+      "id": "downtown-repose-zani",
+      "name": "Downtown Repose",
+      "category": "OUTFIT",
+      "character": "Zani",
+      "price": null,
+      "currency": null,
+      "availability": "LIMITED",
+      "start": "2025-11-20",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/0/0d/Downtown_Repose_Splash_Art.png/revision/latest/scale-to-width-down/480?cb=20251118044330",
+      "isSample": false
+    },
+    {
+      "id": "ensemble-of-hunyuan-buling",
+      "name": "Ensemble of Hunyuan",
+      "category": "OUTFIT",
+      "character": "Buling",
+      "price": null,
+      "currency": null,
+      "availability": "PERMANENT",
+      "start": "2025-12-11",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/1/11/Buling_Full_Sprite.png/revision/latest/scale-to-width-down/480?cb=20251114181312",
+      "isSample": false
+    },
+    {
+      "id": "exorcistic-adjuration-sanhua",
+      "name": "Exorcistic Adjuration",
+      "category": "OUTFIT",
+      "character": "Sanhua",
+      "price": null,
+      "currency": null,
+      "availability": "LIMITED",
+      "start": null,
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/1/1a/Exorcistic_Adjuration_Splash_Art.png/revision/latest/scale-to-width-down/480?cb=20250106124429",
+      "isSample": false
+    },
+    {
+      "id": "fiery-grace-mortefi",
+      "name": "Fiery Grace",
+      "category": "OUTFIT",
+      "character": "Mortefi",
+      "price": null,
+      "currency": null,
+      "availability": "PERMANENT",
+      "start": "2024-05-23",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/2/20/Mortefi_Full_Sprite.png/revision/latest/scale-to-width-down/480?cb=20240202080638",
+      "isSample": false
+    },
+    {
+      "id": "from-the-beyond-phrolova",
+      "name": "From the Beyond",
+      "category": "OUTFIT",
+      "character": "Phrolova",
+      "price": null,
+      "currency": null,
+      "availability": "PERMANENT",
+      "start": "2025-07-24",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/3/32/Phrolova_Full_Sprite.png/revision/latest/scale-to-width-down/480?cb=20250724030941",
+      "isSample": false
+    },
+    {
+      "id": "halcyon-days-of-harvest-suisui",
+      "name": "Halcyon Days of Harvest",
+      "category": "OUTFIT",
+      "character": "Suisui",
+      "price": null,
+      "currency": null,
+      "availability": "PERMANENT",
+      "start": "2026-07-30",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/8/84/Suisui_Full_Sprite.png/revision/latest/scale-to-width-down/480?cb=20260711114717",
+      "isSample": false
+    },
+    {
+      "id": "hallucinative-hues-cantarella",
+      "name": "Hallucinative Hues",
+      "category": "OUTFIT",
+      "character": "Cantarella",
+      "price": null,
+      "currency": null,
+      "availability": "PERMANENT",
+      "start": "2025-03-27",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/b/b3/Cantarella_Full_Sprite.png/revision/latest/scale-to-width-down/480?cb=20250328205054",
+      "isSample": false
+    },
+    {
+      "id": "heavy-is-the-burden-jiyan",
+      "name": "Heavy is the Burden",
+      "category": "OUTFIT",
+      "character": "Jiyan",
+      "price": null,
+      "currency": null,
+      "availability": "PERMANENT",
+      "start": "2024-05-23",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/5/56/Jiyan_Full_Sprite.png/revision/latest/scale-to-width-down/480?cb=20251017041637",
+      "isSample": false
+    },
+    {
+      "id": "her-way-here-chisa",
+      "name": "Her Way Here",
+      "category": "OUTFIT",
+      "character": "Chisa",
+      "price": null,
+      "currency": null,
+      "availability": "PERMANENT",
+      "start": "2025-11-20",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/8/8a/Chisa_Full_Sprite.png/revision/latest/scale-to-width-down/480?cb=20251118043547",
+      "isSample": false
+    },
+    {
+      "id": "hunt-unending-galbrena",
+      "name": "Hunt Unending",
+      "category": "OUTFIT",
+      "character": "Galbrena",
+      "price": null,
+      "currency": null,
+      "availability": "PERMANENT",
+      "start": "2025-10-09",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/f/f0/Galbrena_Full_Sprite.png/revision/latest/scale-to-width-down/480?cb=20251008040416",
+      "isSample": false
+    },
+    {
+      "id": "hymn-of-the-deep-phoebe",
+      "name": "Hymn of the Deep",
+      "category": "OUTFIT",
+      "character": "Phoebe",
+      "price": null,
+      "currency": null,
+      "availability": "PERMANENT",
+      "start": "2025-02-13",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/c/c5/Phoebe_Full_Sprite.png/revision/latest/scale-to-width-down/480?cb=20250213050527",
+      "isSample": false
+    },
+    {
+      "id": "in-full-bloom-camellya",
+      "name": "In Full Bloom",
+      "category": "OUTFIT",
+      "character": "Camellya",
+      "price": null,
+      "currency": null,
+      "availability": "PERMANENT",
+      "start": "2024-11-14",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/d/d4/Camellya_Full_Sprite.png/revision/latest/scale-to-width-down/480?cb=20241210024027",
+      "isSample": false
+    },
+    {
+      "id": "in-the-shadows-calcharo",
+      "name": "In the Shadows",
+      "category": "OUTFIT",
+      "character": "Calcharo",
+      "price": null,
+      "currency": null,
+      "availability": "PERMANENT",
+      "start": "2024-05-23",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/9/9c/Calcharo_Full_Sprite.png/revision/latest/scale-to-width-down/480?cb=20240522194656",
+      "isSample": false
+    },
+    {
+      "id": "information-broker-aalto",
+      "name": "Information Broker",
+      "category": "OUTFIT",
+      "character": "Aalto",
+      "price": null,
+      "currency": null,
+      "availability": "PERMANENT",
+      "start": "2024-05-23",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/3/3d/Aalto_Full_Sprite.png/revision/latest/scale-to-width-down/480?cb=20240129090949",
+      "isSample": false
+    },
+    {
+      "id": "invisible-starlight-aemeath",
+      "name": "Invisible Starlight",
+      "category": "OUTFIT",
+      "character": "Aemeath",
+      "price": null,
+      "currency": null,
+      "availability": "PERMANENT",
+      "start": "2026-02-05",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/6/60/Aemeath_Full_Sprite.png/revision/latest/scale-to-width-down/480?cb=20260204133237",
+      "isSample": false
+    },
+    {
+      "id": "laurel-nymph-changli",
+      "name": "Laurel Nymph",
+      "category": "OUTFIT",
+      "character": "Changli",
+      "price": null,
+      "currency": null,
+      "availability": "LIMITED",
+      "start": "2025-06-12",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/4/45/Laurel_Nymph_Splash_Art.png/revision/latest/scale-to-width-down/480?cb=20250606112211",
+      "isSample": false
+    },
+    {
+      "id": "light-of-embers-changli",
+      "name": "Light of Embers",
+      "category": "OUTFIT",
+      "character": "Changli",
+      "price": null,
+      "currency": null,
+      "availability": "PERMANENT",
+      "start": "2024-07-22",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/d/d2/Changli_Full_Sprite.png/revision/latest/scale-to-width-down/480?cb=20240723101836",
+      "isSample": false
+    },
+    {
+      "id": "lone-drifter-qiuyuan",
+      "name": "Lone Drifter",
+      "category": "OUTFIT",
+      "character": "Qiuyuan",
+      "price": null,
+      "currency": null,
+      "availability": "PERMANENT",
+      "start": "2025-10-30",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/1/14/Qiuyuan_Full_Sprite.png/revision/latest/scale-to-width-down/480?cb=20251008040539",
+      "isSample": false
+    },
+    {
+      "id": "mountain-s-palette-zhezhi",
+      "name": "Mountain's Palette",
+      "category": "OUTFIT",
+      "character": "Zhezhi",
+      "price": null,
+      "currency": null,
+      "availability": "PERMANENT",
+      "start": "2024-08-15",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/8/81/Zhezhi_Full_Sprite.png/revision/latest/scale-to-width-down/480?cb=20250628075115",
+      "isSample": false
+    },
+    {
+      "id": "one-with-everything-jianxin",
+      "name": "One with Everything",
+      "category": "OUTFIT",
+      "character": "Jianxin",
+      "price": null,
+      "currency": null,
+      "availability": "PERMANENT",
+      "start": "2024-05-23",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/d/d4/Jianxin_Full_Sprite.png/revision/latest/scale-to-width-down/480?cb=20240518003041",
+      "isSample": false
+    },
+    {
+      "id": "peach-blossom-jinhsi",
+      "name": "Peach Blossom",
+      "category": "OUTFIT",
+      "character": "Jinhsi",
+      "price": null,
+      "currency": null,
+      "availability": "LIMITED",
+      "start": "2025-01-02",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/c/c3/Peach_Blossom_Splash_Art.png/revision/latest/scale-to-width-down/480?cb=20250106122304",
+      "isSample": false
+    },
+    {
+      "id": "peach-parfait-chisa",
+      "name": "Peach Parfait",
+      "category": "OUTFIT",
+      "character": "Chisa",
+      "price": null,
+      "currency": null,
+      "availability": "LIMITED",
+      "start": "2026-07-10",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/4/47/Peach_Parfait_Showcase_1.jpg/revision/latest/scale-to-width-down/480?cb=20260705103353",
+      "isSample": false
+    },
+    {
+      "id": "peppermint-lynae",
+      "name": "Peppermint",
+      "category": "OUTFIT",
+      "character": "Lynae",
+      "price": null,
+      "currency": null,
+      "availability": "LIMITED",
+      "start": "2026-07-10",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/2/2e/Peppermint_Showcase_1.jpg/revision/latest/scale-to-width-down/480?cb=20260705101654",
+      "isSample": false
+    },
+    {
+      "id": "perpetual-spark-rover",
+      "name": "Perpetual Spark",
+      "category": "OUTFIT",
+      "character": "Rover",
+      "price": null,
+      "currency": null,
+      "availability": "LIMITED",
+      "start": null,
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/4/48/Perpetual_Spark_Splash_Art.png/revision/latest/scale-to-width-down/480?cb=20260722171956",
+      "isSample": false
+    },
+    {
+      "id": "phantasmal-thread-yinlin",
+      "name": "Phantasmal Thread",
+      "category": "OUTFIT",
+      "character": "Yinlin",
+      "price": null,
+      "currency": null,
+      "availability": "PERMANENT",
+      "start": "2024-06-06",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/4/45/Yinlin_Full_Sprite.png/revision/latest/scale-to-width-down/480?cb=20251017041415",
+      "isSample": false
+    },
+    {
+      "id": "plush-dream-mornye",
+      "name": "Plush Dream",
+      "category": "OUTFIT",
+      "character": "Mornye",
+      "price": null,
+      "currency": null,
+      "availability": "LIMITED",
+      "start": "2026-04-30",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/5/5f/Plush_Dream_Splash_Art.png/revision/latest/scale-to-width-down/480?cb=20260419111609",
+      "isSample": false
+    },
+    {
+      "id": "red-jade-danjin",
+      "name": "Red Jade",
+      "category": "OUTFIT",
+      "character": "Danjin",
+      "price": null,
+      "currency": null,
+      "availability": "PERMANENT",
+      "start": "2024-05-23",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/4/4f/Danjin_Full_Sprite.png/revision/latest/scale-to-width-down/480?cb=20230403035004",
+      "isSample": false
+    },
+    {
+      "id": "resilient-truthseeker-xiangli-yao",
+      "name": "Resilient Truthseeker",
+      "category": "OUTFIT",
+      "character": "Xiangli Yao",
+      "price": null,
+      "currency": null,
+      "availability": "PERMANENT",
+      "start": "2024-09-07",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/c/c8/Xiangli_Yao_Full_Sprite.png/revision/latest/scale-to-width-down/480?cb=20240904063531",
+      "isSample": false
+    },
+    {
+      "id": "silken-cloud-qingxiao",
+      "name": "Silken Cloud",
+      "category": "OUTFIT",
+      "character": "Qingxiao",
+      "price": null,
+      "currency": null,
+      "availability": "PERMANENT",
+      "start": "2026-08-20",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/2/26/Qingxiao_Full_Sprite.png/revision/latest/scale-to-width-down/480?cb=20260817091859",
+      "isSample": false
+    },
+    {
+      "id": "songs-of-seasons-ciaccona",
+      "name": "Songs of Seasons",
+      "category": "OUTFIT",
+      "character": "Ciaccona",
+      "price": null,
+      "currency": null,
+      "availability": "PERMANENT",
+      "start": "2025-05-22",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/f/f9/Ciaccona_Full_Sprite.png/revision/latest/scale-to-width-down/480?cb=20250427051539",
+      "isSample": false
+    },
+    {
+      "id": "soundless-prayer-hiyuki",
+      "name": "Soundless Prayer",
+      "category": "OUTFIT",
+      "character": "Hiyuki",
+      "price": null,
+      "currency": null,
+      "availability": "PERMANENT",
+      "start": "2026-04-30",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/7/72/Hiyuki_Full_Sprite.png/revision/latest/scale-to-width-down/480?cb=20260430155021",
+      "isSample": false
+    },
+    {
+      "id": "splashing-summer-carlotta",
+      "name": "Splashing Summer",
+      "category": "OUTFIT",
+      "character": "Carlotta",
+      "price": null,
+      "currency": null,
+      "availability": "LIMITED",
+      "start": "2025-06-12",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/6/60/Splashing_Summer_Splash_Art.png/revision/latest/scale-to-width-down/480?cb=20250606114933",
+      "isSample": false
+    },
+    {
+      "id": "the-sea-s-act-brant",
+      "name": "The Sea's Act",
+      "category": "OUTFIT",
+      "character": "Brant",
+      "price": null,
+      "currency": null,
+      "availability": "PERMANENT",
+      "start": "2025-03-06",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/1/1c/Brant_Full_Sprite.png/revision/latest/scale-to-width-down/480?cb=20250310043217",
+      "isSample": false
+    },
+    {
+      "id": "the-unmeasured-one-iuno",
+      "name": "The Unmeasured One",
+      "category": "OUTFIT",
+      "character": "Iuno",
+      "price": null,
+      "currency": null,
+      "availability": "PERMANENT",
+      "start": "2025-09-17",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/2/20/Iuno_Full_Sprite.png/revision/latest/scale-to-width-down/480?cb=20250909182139",
+      "isSample": false
+    },
+    {
+      "id": "thorny-rain-cartethyia",
+      "name": "Thorny Rain",
+      "category": "OUTFIT",
+      "character": "Cartethyia",
+      "price": null,
+      "currency": null,
+      "availability": "PERMANENT",
+      "start": "2025-06-12",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/e/ee/Cartethyia_Full_Sprite.png/revision/latest/scale-to-width-down/480?cb=20250620084445",
+      "isSample": false
+    },
+    {
+      "id": "trendsetter-carlotta",
+      "name": "Trendsetter",
+      "category": "OUTFIT",
+      "character": "Carlotta",
+      "price": null,
+      "currency": null,
+      "availability": "PERMANENT",
+      "start": "2025-01-02",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/d/da/Carlotta_Full_Sprite.png/revision/latest/scale-to-width-down/480?cb=20250103065623",
+      "isSample": false
+    },
+    {
+      "id": "wandering-traveler-rover",
+      "name": "Wandering Traveler",
+      "category": "OUTFIT",
+      "character": "Rover",
+      "price": null,
+      "currency": null,
+      "availability": "PERMANENT",
+      "start": "2024-05-23",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/7/70/Rover_1.png/revision/latest/scale-to-width-down/480?cb=20240420140302",
+      "isSample": false
+    },
+    {
+      "id": "what-s-in-the-box-roccia",
+      "name": "What's in the Box",
+      "category": "OUTFIT",
+      "character": "Roccia",
+      "price": null,
+      "currency": null,
+      "availability": "PERMANENT",
+      "start": "2025-01-23",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/c/c6/Roccia_Full_Sprite.png/revision/latest/scale-to-width-down/480?cb=20250123135546",
+      "isSample": false
+    },
+    {
+      "id": "wilderness-navigator-lumi",
+      "name": "Wilderness Navigator",
+      "category": "OUTFIT",
+      "character": "Lumi",
+      "price": null,
+      "currency": null,
+      "availability": "PERMANENT",
+      "start": "2024-12-12",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/4/4f/Lumi_Full_Sprite.png/revision/latest/scale-to-width-down/480?cb=20241215024548",
+      "isSample": false
+    },
+    {
+      "id": "wildfire-lupa",
+      "name": "Wildfire",
+      "category": "OUTFIT",
+      "character": "Lupa",
+      "price": null,
+      "currency": null,
+      "availability": "PERMANENT",
+      "start": "2025-07-03",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/1/12/Lupa_Full_Sprite.png/revision/latest/scale-to-width-down/480?cb=20250705033445",
+      "isSample": false
+    },
+    {
+      "id": "wooly-captain-encore",
+      "name": "Wooly Captain",
+      "category": "OUTFIT",
+      "character": "Encore",
+      "price": null,
+      "currency": null,
+      "availability": "PERMANENT",
+      "start": "2024-05-23",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/f/f7/Encore_Full_Sprite.png/revision/latest/scale-to-width-down/480?cb=20260804173204",
+      "isSample": false
+    }
+  ],
   "events": [
     {
       "id": "a-glimpse-of-xuanfang-2026-07-10",
@@ -6707,7 +7590,1670 @@
       "isSample": false
     }
   ],
-  "patchNotes": [],
+  "patchNotes": [
+    {
+      "id": "version-3.6",
+      "versionNumber": "3.6",
+      "title": "Version 3.6 - Lamplight in Mirage, Sword's Resolve in Heart",
+      "releaseDate": "2026-08-20T10:00:00+08:00",
+      "type": "VERSION",
+      "summary": "10 banners across 2 phases. New resonators: Qingxiao, Jingran.",
+      "sourceUrl": "https://wutheringwaves.kurogames.com/en/main/news/detail/5357",
+      "status": "CONFIRMED",
+      "lastUpdated": "2026-08-20T10:00:00+08:00",
+      "isSample": false,
+      "entries": [
+        {
+          "category": "NEW_CONTENT",
+          "text": "False Promise for Tomorrow: Denia rerun, phase 1 (2026-08-20)",
+          "affectedItems": [
+            "Denia"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Wind of Transcendence: Qingxiao debut, phase 1 (2026-08-20)",
+          "affectedItems": [
+            "Qingxiao"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Forged Dwarf Star: Forged Dwarf Star rerun, phase 1 (2026-08-20)",
+          "affectedItems": [
+            "Forged Dwarf Star"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Glint of Clouds: Glint of Clouds debut, phase 1 (2026-08-20)",
+          "affectedItems": [
+            "Glint of Clouds"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Distant May the Starlights Be: Mornye rerun, phase 2 (2026-09-10)",
+          "affectedItems": [
+            "Mornye"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Thousand Futures Mirrored in Snow: Hiyuki rerun, phase 2 (2026-09-10)",
+          "affectedItems": [
+            "Hiyuki"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Where Santu Beckons: Jingran debut, phase 2 (2026-09-10)",
+          "affectedItems": [
+            "Jingran"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Frostburn: Frostburn rerun, phase 2 (2026-09-10)",
+          "affectedItems": [
+            "Frostburn"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Starfield Calibrator: Starfield Calibrator rerun, phase 2 (2026-09-10)",
+          "affectedItems": [
+            "Starfield Calibrator"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Thousandfold Deliverance: Thousandfold Deliverance debut, phase 2 (2026-09-10)",
+          "affectedItems": [
+            "Thousandfold Deliverance"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        }
+      ]
+    },
+    {
+      "id": "version-3.5",
+      "versionNumber": "3.5",
+      "title": "Version 3.5 - Blade of Past Resounds, Lingering Dream Hymns",
+      "releaseDate": "2026-07-10T09:10:00+08:00",
+      "type": "VERSION",
+      "summary": "10 banners across 2 phases. New resonators: Yangyang: Xuanling, Suisui.",
+      "sourceUrl": "https://wutheringwaves.kurogames.com/en/main/news/detail/5091",
+      "status": "CONFIRMED",
+      "lastUpdated": "2026-07-10T09:10:00+08:00",
+      "isSample": false,
+      "entries": [
+        {
+          "category": "NEW_CONTENT",
+          "text": "Undefined Spectrum: Lynae rerun, phase 1 (2026-07-10)",
+          "affectedItems": [
+            "Lynae"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Voices on Azure Feathers: Yangyang: Xuanling debut, phase 1 (2026-07-10)",
+          "affectedItems": [
+            "Yangyang: Xuanling"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "When Winter Thaws: Luuk Herssen rerun, phase 1 (2026-07-10)",
+          "affectedItems": [
+            "Luuk Herssen"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Azure Oath: Azure Oath debut, phase 1 (2026-07-10)",
+          "affectedItems": [
+            "Azure Oath"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Daybreaker's Spine: Daybreaker's Spine rerun, phase 1 (2026-07-10)",
+          "affectedItems": [
+            "Daybreaker's Spine"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Spectrum Blaster: Spectrum Blaster rerun, phase 1 (2026-07-10)",
+          "affectedItems": [
+            "Spectrum Blaster"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Blessings From Dewy Winds: Suisui debut, phase 2 (2026-07-30)",
+          "affectedItems": [
+            "Suisui"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Take Flight in Spring: Aemeath rerun, phase 2 (2026-07-30)",
+          "affectedItems": [
+            "Aemeath"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Everbright Polestar: Everbright Polestar rerun, phase 2 (2026-07-30)",
+          "affectedItems": [
+            "Everbright Polestar"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Firstlight's Herald: Firstlight's Herald debut, phase 2 (2026-07-30)",
+          "affectedItems": [
+            "Firstlight's Herald"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        }
+      ]
+    },
+    {
+      "id": "version-3.4",
+      "versionNumber": "3.4",
+      "title": "Version 3.4 - The Dream Not Dreamed",
+      "releaseDate": "2026-06-08T08:43:00+08:00",
+      "type": "VERSION",
+      "summary": "4 banners across 1 phases. New resonators: Lucilla.",
+      "sourceUrl": "https://wutheringwaves.kurogames.com/en/main/news/detail/4819",
+      "status": "CONFIRMED",
+      "lastUpdated": "2026-06-08T08:43:00+08:00",
+      "isSample": false,
+      "entries": [
+        {
+          "category": "NEW_CONTENT",
+          "text": "Tomorrow in the Frame: Lucilla debut, phase 2 (2026-06-13)",
+          "affectedItems": [
+            "Lucilla"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Freeze Frame: Freeze Frame debut, phase 2 (2026-06-13)",
+          "affectedItems": [
+            "Freeze Frame"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Dance in the Storm's Wake: Cartethyia rerun, phase 2 (2026-06-18)",
+          "affectedItems": [
+            "Cartethyia"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Defier's Thorn: Defier's Thorn rerun, phase 2 (2026-06-18)",
+          "affectedItems": [
+            "Defier's Thorn"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        }
+      ]
+    },
+    {
+      "id": "version-3.3",
+      "versionNumber": "3.3",
+      "title": "Version 3.3 - Reverbs From the End of Galaxies",
+      "releaseDate": "2026-04-30T08:21:00+08:00",
+      "type": "VERSION",
+      "summary": "12 banners across 2 phases. New resonators: Hiyuki, Denia.",
+      "sourceUrl": "https://wutheringwaves.kurogames.com/en/main/news/detail/4613",
+      "status": "CONFIRMED",
+      "lastUpdated": "2026-04-30T08:21:00+08:00",
+      "isSample": false,
+      "entries": [
+        {
+          "category": "NEW_CONTENT",
+          "text": "Across Time's Waxes and Wanes: Iuno rerun, phase 1 (2026-04-30)",
+          "affectedItems": [
+            "Iuno"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Distant May the Starlights Be: Mornye rerun, phase 1 (2026-04-30)",
+          "affectedItems": [
+            "Mornye"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Thousand Futures Mirrored in Snow: Hiyuki debut, phase 1 (2026-04-30)",
+          "affectedItems": [
+            "Hiyuki"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Frostburn: Frostburn debut, phase 1 (2026-04-30)",
+          "affectedItems": [
+            "Frostburn"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Moongazer's Sigil: Moongazer's Sigil rerun, phase 1 (2026-04-30)",
+          "affectedItems": [
+            "Moongazer's Sigil"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Starfield Calibrator: Starfield Calibrator rerun, phase 1 (2026-04-30)",
+          "affectedItems": [
+            "Starfield Calibrator"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "False Promise for Tomorrow: Denia debut, phase 2 (2026-05-21)",
+          "affectedItems": [
+            "Denia"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Horizon of Dawnbreak: Chisa rerun, phase 2 (2026-05-21)",
+          "affectedItems": [
+            "Chisa"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Requiem Without End: Phrolova rerun, phase 2 (2026-05-21)",
+          "affectedItems": [
+            "Phrolova"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Forged Dwarf Star: Forged Dwarf Star debut, phase 2 (2026-05-21)",
+          "affectedItems": [
+            "Forged Dwarf Star"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Kumokiri: Kumokiri rerun, phase 2 (2026-05-21)",
+          "affectedItems": [
+            "Kumokiri"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Lethean Elegy: Lethean Elegy rerun, phase 2 (2026-05-21)",
+          "affectedItems": [
+            "Lethean Elegy"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        }
+      ]
+    },
+    {
+      "id": "version-3.2",
+      "versionNumber": "3.2",
+      "title": "Version 3.2 - Resolution to Illuminate the Shadows",
+      "releaseDate": "2026-03-19T11:00:00+08:00",
+      "type": "VERSION",
+      "summary": "10 banners across 2 phases. New resonators: Sigrika.",
+      "sourceUrl": "https://wutheringwaves.kurogames.com/en/main/news/detail/4447",
+      "status": "CONFIRMED",
+      "lastUpdated": "2026-03-19T11:00:00+08:00",
+      "isSample": false,
+      "entries": [
+        {
+          "category": "NEW_CONTENT",
+          "text": "Wanderer Knows No Far and Near: Qiuyuan rerun, phase 1 (2026-03-19)",
+          "affectedItems": [
+            "Qiuyuan"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "When the Runes Glitter: Sigrika debut, phase 1 (2026-03-19)",
+          "affectedItems": [
+            "Sigrika"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Emerald Sentence: Emerald Sentence rerun, phase 1 (2026-03-19)",
+          "affectedItems": [
+            "Emerald Sentence"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Solsworn Ciphers: Solsworn Ciphers debut, phase 1 (2026-03-19)",
+          "affectedItems": [
+            "Solsworn Ciphers"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Between Light and Shadow: Zani rerun, phase 2 (2026-04-09)",
+          "affectedItems": [
+            "Zani"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Undefined Spectrum: Lynae rerun, phase 2 (2026-04-09)",
+          "affectedItems": [
+            "Lynae"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "With Hushed Whispers: Phoebe rerun, phase 2 (2026-04-09)",
+          "affectedItems": [
+            "Phoebe"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Blazing Justice: Blazing Justice rerun, phase 2 (2026-04-09)",
+          "affectedItems": [
+            "Blazing Justice"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Luminous Hymn: Luminous Hymn rerun, phase 2 (2026-04-09)",
+          "affectedItems": [
+            "Luminous Hymn"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Spectrum Blaster: Spectrum Blaster rerun, phase 2 (2026-04-09)",
+          "affectedItems": [
+            "Spectrum Blaster"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        }
+      ]
+    },
+    {
+      "id": "version-3.1",
+      "versionNumber": "3.1",
+      "title": "Version 3.1 - For You Who Walk in Snow",
+      "releaseDate": "2026-02-05T08:55:00+08:00",
+      "type": "VERSION",
+      "summary": "10 banners across 2 phases. New resonators: Aemeath, Luuk Herssen.",
+      "sourceUrl": "https://wutheringwaves.kurogames.com/en/main/news/detail/4188",
+      "status": "CONFIRMED",
+      "lastUpdated": "2026-02-05T08:55:00+08:00",
+      "isSample": false,
+      "entries": [
+        {
+          "category": "NEW_CONTENT",
+          "text": "Horizon of Dawnbreak: Chisa rerun, phase 1 (2026-02-05)",
+          "affectedItems": [
+            "Chisa"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Roar of Triumph: Lupa rerun, phase 1 (2026-02-05)",
+          "affectedItems": [
+            "Lupa"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Take Flight in Spring: Aemeath debut, phase 1 (2026-02-05)",
+          "affectedItems": [
+            "Aemeath"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Everbright Polestar: Everbright Polestar debut, phase 1 (2026-02-05)",
+          "affectedItems": [
+            "Everbright Polestar"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Kumokiri: Kumokiri rerun, phase 1 (2026-02-05)",
+          "affectedItems": [
+            "Kumokiri"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Wildfire Mark: Wildfire Mark rerun, phase 1 (2026-02-05)",
+          "affectedItems": [
+            "Wildfire Mark"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "From Ashes: Galbrena rerun, phase 2 (2026-02-26)",
+          "affectedItems": [
+            "Galbrena"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "When Winter Thaws: Luuk Herssen debut, phase 2 (2026-02-26)",
+          "affectedItems": [
+            "Luuk Herssen"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Daybreaker's Spine: Daybreaker's Spine debut, phase 2 (2026-02-26)",
+          "affectedItems": [
+            "Daybreaker's Spine"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Lux & Umbra: Lux & Umbra rerun, phase 2 (2026-02-26)",
+          "affectedItems": [
+            "Lux & Umbra"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        }
+      ]
+    },
+    {
+      "id": "version-3.0",
+      "versionNumber": "3.0",
+      "title": "Version 3.0 - We Who See the Stars",
+      "releaseDate": "2025-12-25T10:45:00+08:00",
+      "type": "VERSION",
+      "summary": "12 banners across 2 phases. New resonators: Lynae, Mornye.",
+      "sourceUrl": "https://wutheringwaves.kurogames.com/en/main/news/detail/3920",
+      "status": "CONFIRMED",
+      "lastUpdated": "2025-12-25T10:45:00+08:00",
+      "isSample": false,
+      "entries": [
+        {
+          "category": "NEW_CONTENT",
+          "text": "Dance in the Storm's Wake: Cartethyia rerun, phase 1 (2025-12-25)",
+          "affectedItems": [
+            "Cartethyia"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Through Verses and Rhythms: Ciaccona rerun, phase 1 (2025-12-25)",
+          "affectedItems": [
+            "Ciaccona"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Undefined Spectrum: Lynae debut, phase 1 (2025-12-25)",
+          "affectedItems": [
+            "Lynae"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Defier's Thorn: Defier's Thorn rerun, phase 1 (2025-12-25)",
+          "affectedItems": [
+            "Defier's Thorn"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Spectrum Blaster: Spectrum Blaster debut, phase 1 (2025-12-25)",
+          "affectedItems": [
+            "Spectrum Blaster"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Woodland Aria: Woodland Aria rerun, phase 1 (2025-12-25)",
+          "affectedItems": [
+            "Woodland Aria"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Across Time's Waxes and Wanes: Iuno rerun, phase 2 (2026-01-15)",
+          "affectedItems": [
+            "Iuno"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Distant May the Starlights Be: Mornye debut, phase 2 (2026-01-15)",
+          "affectedItems": [
+            "Mornye"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Eternal Radiance on the Crown: Augusta rerun, phase 2 (2026-01-15)",
+          "affectedItems": [
+            "Augusta"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Moongazer's Sigil: Moongazer's Sigil rerun, phase 2 (2026-01-15)",
+          "affectedItems": [
+            "Moongazer's Sigil"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Starfield Calibrator: Starfield Calibrator debut, phase 2 (2026-01-15)",
+          "affectedItems": [
+            "Starfield Calibrator"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Thunderflare Dominion: Thunderflare Dominion rerun, phase 2 (2026-01-15)",
+          "affectedItems": [
+            "Thunderflare Dominion"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        }
+      ]
+    },
+    {
+      "id": "version-2.8",
+      "versionNumber": "2.8",
+      "title": "Version 2.8 - To the City Set in Amber",
+      "releaseDate": "2025-11-20T10:30:00+08:00",
+      "type": "VERSION",
+      "summary": "8 banners across 2 phases. New resonators: Chisa.",
+      "sourceUrl": "https://wutheringwaves.kurogames.com/en/main/news/detail/3657",
+      "status": "CONFIRMED",
+      "lastUpdated": "2025-11-20T10:30:00+08:00",
+      "isSample": false,
+      "entries": [
+        {
+          "category": "NEW_CONTENT",
+          "text": "Horizon of Dawnbreak: Chisa debut, phase 1 (2025-11-20)",
+          "affectedItems": [
+            "Chisa"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "With Hushed Whispers: Phoebe rerun, phase 1 (2025-11-20)",
+          "affectedItems": [
+            "Phoebe"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Kumokiri: Kumokiri debut, phase 1 (2025-11-20)",
+          "affectedItems": [
+            "Kumokiri"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Luminous Hymn: Luminous Hymn rerun, phase 1 (2025-11-20)",
+          "affectedItems": [
+            "Luminous Hymn"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Neptune's Lullaby: Cantarella rerun, phase 2 (2025-12-11)",
+          "affectedItems": [
+            "Cantarella"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Requiem Without End: Phrolova rerun, phase 2 (2025-12-11)",
+          "affectedItems": [
+            "Phrolova"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Lethean Elegy: Lethean Elegy rerun, phase 2 (2025-12-11)",
+          "affectedItems": [
+            "Lethean Elegy"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Whispers of Sirens: Whispers of Sirens rerun, phase 2 (2025-12-11)",
+          "affectedItems": [
+            "Whispers of Sirens"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        }
+      ]
+    },
+    {
+      "id": "version-2.7",
+      "versionNumber": "2.7",
+      "title": "Version 2.7 - Dawn Breaks on Dark Tides",
+      "releaseDate": "2025-10-09T11:00:00+08:00",
+      "type": "VERSION",
+      "summary": "8 banners across 2 phases. New resonators: Galbrena, Qiuyuan.",
+      "sourceUrl": "https://wutheringwaves.kurogames.com/en/main/news/detail/3412",
+      "status": "CONFIRMED",
+      "lastUpdated": "2025-10-09T11:00:00+08:00",
+      "isSample": false,
+      "entries": [
+        {
+          "category": "NEW_CONTENT",
+          "text": "From Ashes: Galbrena debut, phase 1 (2025-10-09)",
+          "affectedItems": [
+            "Galbrena"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Roar of Triumph: Lupa rerun, phase 1 (2025-10-09)",
+          "affectedItems": [
+            "Lupa"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Lux & Umbra: Lux & Umbra debut, phase 1 (2025-10-09)",
+          "affectedItems": [
+            "Lux & Umbra"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Wildfire Mark: Wildfire Mark rerun, phase 1 (2025-10-09)",
+          "affectedItems": [
+            "Wildfire Mark"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Between Light and Shadow: Zani rerun, phase 2 (2025-10-30)",
+          "affectedItems": [
+            "Zani"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Wanderer Knows No Far and Near: Qiuyuan debut, phase 2 (2025-10-30)",
+          "affectedItems": [
+            "Qiuyuan"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Blazing Justice: Blazing Justice rerun, phase 2 (2025-10-30)",
+          "affectedItems": [
+            "Blazing Justice"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Emerald Sentence: Emerald Sentence debut, phase 2 (2025-10-30)",
+          "affectedItems": [
+            "Emerald Sentence"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        }
+      ]
+    },
+    {
+      "id": "version-2.6",
+      "versionNumber": "2.6",
+      "title": "Version 2.6 - By Sun's Scourge, By Moon's Revelation",
+      "releaseDate": "2025-08-28T11:00:00+08:00",
+      "type": "VERSION",
+      "summary": "10 banners across 2 phases. New resonators: Augusta, Iuno.",
+      "sourceUrl": "https://wutheringwaves.kurogames.com/en/main/news/detail/3194",
+      "status": "CONFIRMED",
+      "lastUpdated": "2025-08-28T11:00:00+08:00",
+      "isSample": false,
+      "entries": [
+        {
+          "category": "NEW_CONTENT",
+          "text": "Eternal Radiance on the Crown: Augusta debut, phase 1 (2025-08-28)",
+          "affectedItems": [
+            "Augusta"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Till the Sea Turns Clear: Shorekeeper rerun, phase 1 (2025-08-28)",
+          "affectedItems": [
+            "Shorekeeper"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "When Silence Tolls: Carlotta rerun, phase 1 (2025-08-28)",
+          "affectedItems": [
+            "Carlotta"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Stellar Symphony: Stellar Symphony rerun, phase 1 (2025-08-28)",
+          "affectedItems": [
+            "Stellar Symphony"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: The Last Dance: The Last Dance rerun, phase 1 (2025-08-28)",
+          "affectedItems": [
+            "The Last Dance"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Thunderflare Dominion: Thunderflare Dominion debut, phase 1 (2025-08-28)",
+          "affectedItems": [
+            "Thunderflare Dominion"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Across Time's Waxes and Wanes: Iuno debut, phase 2 (2025-09-17)",
+          "affectedItems": [
+            "Iuno"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Through Verses and Rhythms: Ciaccona rerun, phase 2 (2025-09-17)",
+          "affectedItems": [
+            "Ciaccona"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Moongazer's Sigil: Moongazer's Sigil debut, phase 2 (2025-09-17)",
+          "affectedItems": [
+            "Moongazer's Sigil"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Woodland Aria: Woodland Aria rerun, phase 2 (2025-09-17)",
+          "affectedItems": [
+            "Woodland Aria"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        }
+      ]
+    },
+    {
+      "id": "version-2.5",
+      "versionNumber": "2.5",
+      "title": "Version 2.5 - Unfading Melody of Life",
+      "releaseDate": "2025-07-24T11:00:00+08:00",
+      "type": "VERSION",
+      "summary": "8 banners across 2 phases. New resonators: Phrolova.",
+      "sourceUrl": "https://wutheringwaves.kurogames.com/en/main/news/detail/2966",
+      "status": "CONFIRMED",
+      "lastUpdated": "2025-07-24T11:00:00+08:00",
+      "isSample": false,
+      "entries": [
+        {
+          "category": "NEW_CONTENT",
+          "text": "Requiem Without End: Phrolova debut, phase 1 (2025-07-24)",
+          "affectedItems": [
+            "Phrolova"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Stage in the Box: Roccia rerun, phase 1 (2025-07-24)",
+          "affectedItems": [
+            "Roccia"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Lethean Elegy: Lethean Elegy debut, phase 1 (2025-07-24)",
+          "affectedItems": [
+            "Lethean Elegy"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Tragicomedy: Tragicomedy rerun, phase 1 (2025-07-24)",
+          "affectedItems": [
+            "Tragicomedy"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Blaze Across the Deep: Brant rerun, phase 2 (2025-08-14)",
+          "affectedItems": [
+            "Brant"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Neptune's Lullaby: Cantarella rerun, phase 2 (2025-08-14)",
+          "affectedItems": [
+            "Cantarella"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Unflickering Valor: Unflickering Valor rerun, phase 2 (2025-08-14)",
+          "affectedItems": [
+            "Unflickering Valor"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Whispers of Sirens: Whispers of Sirens rerun, phase 2 (2025-08-14)",
+          "affectedItems": [
+            "Whispers of Sirens"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        }
+      ]
+    },
+    {
+      "id": "version-2.4",
+      "versionNumber": "2.4",
+      "title": "Version 2.4 - Lightly We Toss the Crown",
+      "releaseDate": "2025-06-12T11:00:00+08:00",
+      "type": "VERSION",
+      "summary": "4 banners across 2 phases. New resonators: Cartethyia, Lupa.",
+      "sourceUrl": "https://wutheringwaves.kurogames.com/en/main/news/detail/2801",
+      "status": "CONFIRMED",
+      "lastUpdated": "2025-06-12T11:00:00+08:00",
+      "isSample": false,
+      "entries": [
+        {
+          "category": "NEW_CONTENT",
+          "text": "Dance in the Storm's Wake: Cartethyia debut, phase 1 (2025-06-12)",
+          "affectedItems": [
+            "Cartethyia"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Defier's Thorn: Defier's Thorn debut, phase 1 (2025-06-12)",
+          "affectedItems": [
+            "Defier's Thorn"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Roar of Triumph: Lupa debut, phase 2 (2025-07-03)",
+          "affectedItems": [
+            "Lupa"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Wildfire Mark: Wildfire Mark debut, phase 2 (2025-07-03)",
+          "affectedItems": [
+            "Wildfire Mark"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        }
+      ]
+    },
+    {
+      "id": "version-2.3",
+      "versionNumber": "2.3",
+      "title": "Version 2.3 - Fiery Arpeggio of Summer Reunion",
+      "releaseDate": "2025-04-29T11:00:00+08:00",
+      "type": "VERSION",
+      "summary": "4 banners across 2 phases. New resonators: Zani, Ciaccona.",
+      "sourceUrl": "https://wutheringwaves.kurogames.com/en/main/news/detail/2561",
+      "status": "CONFIRMED",
+      "lastUpdated": "2025-04-29T11:00:00+08:00",
+      "isSample": false,
+      "entries": [
+        {
+          "category": "NEW_CONTENT",
+          "text": "Between Light and Shadow: Zani debut, phase 1 (2025-04-29)",
+          "affectedItems": [
+            "Zani"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Blazing Justice: Blazing Justice debut, phase 1 (2025-04-29)",
+          "affectedItems": [
+            "Blazing Justice"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Through Verses and Rhythms: Ciaccona debut, phase 2 (2025-05-22)",
+          "affectedItems": [
+            "Ciaccona"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Woodland Aria: Woodland Aria debut, phase 2 (2025-05-22)",
+          "affectedItems": [
+            "Woodland Aria"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        }
+      ]
+    },
+    {
+      "id": "version-2.2",
+      "versionNumber": "2.2",
+      "title": "Version 2.2 - Tangled Truth in Inverted Tower",
+      "releaseDate": "2025-03-27T11:00:00+08:00",
+      "type": "VERSION",
+      "summary": "6 banners across 2 phases. New resonators: Cantarella.",
+      "sourceUrl": "https://wutheringwaves.kurogames.com/en/main/news/detail/2381",
+      "status": "CONFIRMED",
+      "lastUpdated": "2025-03-27T11:00:00+08:00",
+      "isSample": false,
+      "entries": [
+        {
+          "category": "NEW_CONTENT",
+          "text": "End of Lost Trail: Camellya rerun, phase 1 (2025-03-27)",
+          "affectedItems": [
+            "Camellya"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Neptune's Lullaby: Cantarella debut, phase 1 (2025-03-27)",
+          "affectedItems": [
+            "Cantarella"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Red Spring: Red Spring rerun, phase 1 (2025-03-27)",
+          "affectedItems": [
+            "Red Spring"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Whispers of Sirens: Whispers of Sirens debut, phase 1 (2025-03-27)",
+          "affectedItems": [
+            "Whispers of Sirens"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Till the Sea Turns Clear: Shorekeeper rerun, phase 2 (2025-04-17)",
+          "affectedItems": [
+            "Shorekeeper"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Stellar Symphony: Stellar Symphony rerun, phase 2 (2025-04-17)",
+          "affectedItems": [
+            "Stellar Symphony"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        }
+      ]
+    },
+    {
+      "id": "version-2.1",
+      "versionNumber": "2.1",
+      "title": "Version 2.1 - Waves Sing, and the Cerulean Bird Calls",
+      "releaseDate": "2025-02-13T11:00:00+08:00",
+      "type": "VERSION",
+      "summary": "6 banners across 2 phases. New resonators: Phoebe, Brant.",
+      "sourceUrl": "https://wutheringwaves.kurogames.com/m/en/main/news/detail/2154",
+      "status": "CONFIRMED",
+      "lastUpdated": "2025-02-13T11:00:00+08:00",
+      "isSample": false,
+      "entries": [
+        {
+          "category": "NEW_CONTENT",
+          "text": "With Hushed Whispers: Phoebe debut, phase 1 (2025-02-13)",
+          "affectedItems": [
+            "Phoebe"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Luminous Hymn: Luminous Hymn debut, phase 1 (2025-02-13)",
+          "affectedItems": [
+            "Luminous Hymn"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Blaze Across the Deep: Brant debut, phase 2 (2025-03-06)",
+          "affectedItems": [
+            "Brant"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Vermillion's Ploy: Changli rerun, phase 2 (2025-03-06)",
+          "affectedItems": [
+            "Changli"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Blazing Brilliance: Blazing Brilliance rerun, phase 2 (2025-03-06)",
+          "affectedItems": [
+            "Blazing Brilliance"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Unflickering Valor: Unflickering Valor debut, phase 2 (2025-03-06)",
+          "affectedItems": [
+            "Unflickering Valor"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        }
+      ]
+    },
+    {
+      "id": "version-2.0",
+      "versionNumber": "2.0",
+      "title": "Version 2.0 - All Silent Souls Can Sing",
+      "releaseDate": "2025-01-02T10:00:00+08:00",
+      "type": "VERSION",
+      "summary": "8 banners across 2 phases. New resonators: Carlotta, Roccia.",
+      "sourceUrl": "https://wutheringwaves.kurogames.com/en/main/news/detail/1912",
+      "status": "CONFIRMED",
+      "lastUpdated": "2025-01-02T10:00:00+08:00",
+      "isSample": false,
+      "entries": [
+        {
+          "category": "NEW_CONTENT",
+          "text": "Chromatic Prose: Zhezhi rerun, phase 1 (2025-01-02)",
+          "affectedItems": [
+            "Zhezhi"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "When Silence Tolls: Carlotta debut, phase 1 (2025-01-02)",
+          "affectedItems": [
+            "Carlotta"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Rime-Draped Sprouts: Rime-Draped Sprouts rerun, phase 1 (2025-01-02)",
+          "affectedItems": [
+            "Rime-Draped Sprouts"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: The Last Dance: The Last Dance debut, phase 1 (2025-01-02)",
+          "affectedItems": [
+            "The Last Dance"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Stage in the Box: Roccia debut, phase 2 (2025-01-23)",
+          "affectedItems": [
+            "Roccia"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Thawborn Renewal: Jinhsi rerun, phase 2 (2025-01-23)",
+          "affectedItems": [
+            "Jinhsi"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Ages of Harvest: Ages of Harvest rerun, phase 2 (2025-01-23)",
+          "affectedItems": [
+            "Ages of Harvest"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Tragicomedy: Tragicomedy debut, phase 2 (2025-01-23)",
+          "affectedItems": [
+            "Tragicomedy"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        }
+      ]
+    },
+    {
+      "id": "version-1.4",
+      "versionNumber": "1.4",
+      "title": "Version 1.4 - When the Night Knocks",
+      "releaseDate": "2024-11-14T11:00:00+08:00",
+      "type": "VERSION",
+      "summary": "6 banners across 2 phases. New resonators: Camellya.",
+      "sourceUrl": "https://wutheringwaves.kurogames.com/en/main/news/detail/1647",
+      "status": "CONFIRMED",
+      "lastUpdated": "2024-11-14T11:00:00+08:00",
+      "isSample": false,
+      "entries": [
+        {
+          "category": "NEW_CONTENT",
+          "text": "End of Lost Trail: Camellya debut, phase 1 (2024-11-14)",
+          "affectedItems": [
+            "Camellya"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Red Spring: Red Spring debut, phase 1 (2024-11-14)",
+          "affectedItems": [
+            "Red Spring"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Celestial Revelation: Xiangli Yao rerun, phase 2 (2024-12-12)",
+          "affectedItems": [
+            "Xiangli Yao"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "When Thunder Pours: Yinlin rerun, phase 2 (2024-12-12)",
+          "affectedItems": [
+            "Yinlin"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Stringmaster: Stringmaster rerun, phase 2 (2024-12-12)",
+          "affectedItems": [
+            "Stringmaster"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Verity's Handle: Verity's Handle rerun, phase 2 (2024-12-12)",
+          "affectedItems": [
+            "Verity's Handle"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        }
+      ]
+    },
+    {
+      "id": "version-1.3",
+      "versionNumber": "1.3",
+      "title": "Version 1.3 - To the Shore's End",
+      "releaseDate": "2024-09-29T11:00:00+08:00",
+      "type": "VERSION",
+      "summary": "4 banners across 2 phases. New resonators: Shorekeeper.",
+      "sourceUrl": "https://wutheringwaves.kurogames.com/en/main/news/detail/1454",
+      "status": "CONFIRMED",
+      "lastUpdated": "2024-09-29T11:00:00+08:00",
+      "isSample": false,
+      "entries": [
+        {
+          "category": "NEW_CONTENT",
+          "text": "Till the Sea Turns Clear: Shorekeeper debut, phase 1 (2024-09-29)",
+          "affectedItems": [
+            "Shorekeeper"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Stellar Symphony: Stellar Symphony debut, phase 1 (2024-09-29)",
+          "affectedItems": [
+            "Stellar Symphony"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Prevail the Lasting Night: Jiyan rerun, phase 2 (2024-10-24)",
+          "affectedItems": [
+            "Jiyan"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Verdant Summit: Verdant Summit rerun, phase 2 (2024-10-24)",
+          "affectedItems": [
+            "Verdant Summit"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        }
+      ]
+    },
+    {
+      "id": "version-1.2",
+      "versionNumber": "1.2",
+      "title": "Version 1.2 - In the Turquoise Moonglow",
+      "releaseDate": "2024-08-15T13:00:00+08:00",
+      "type": "VERSION",
+      "summary": "4 banners across 2 phases. New resonators: Zhezhi, Xiangli Yao.",
+      "sourceUrl": "https://wutheringwaves.kurogames.com/m/en/main/news/detail/1190",
+      "status": "CONFIRMED",
+      "lastUpdated": "2024-08-15T13:00:00+08:00",
+      "isSample": false,
+      "entries": [
+        {
+          "category": "NEW_CONTENT",
+          "text": "Chromatic Prose: Zhezhi debut, phase 1 (2024-08-15)",
+          "affectedItems": [
+            "Zhezhi"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Rime-Draped Sprouts: Rime-Draped Sprouts debut, phase 1 (2024-08-15)",
+          "affectedItems": [
+            "Rime-Draped Sprouts"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Celestial Revelation: Xiangli Yao debut, phase 2 (2024-09-07)",
+          "affectedItems": [
+            "Xiangli Yao"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Verity's Handle: Verity's Handle debut, phase 2 (2024-09-07)",
+          "affectedItems": [
+            "Verity's Handle"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        }
+      ]
+    },
+    {
+      "id": "version-1.1",
+      "versionNumber": "1.1",
+      "title": "Version 1.1 - Thaw of Eons",
+      "releaseDate": "2024-06-28T13:00:00+08:00",
+      "type": "VERSION",
+      "summary": "4 banners across 2 phases. New resonators: Jinhsi, Changli.",
+      "sourceUrl": "https://wutheringwaves.kurogames.com/en/main/news/detail/996",
+      "status": "CONFIRMED",
+      "lastUpdated": "2024-06-28T13:00:00+08:00",
+      "isSample": false,
+      "entries": [
+        {
+          "category": "NEW_CONTENT",
+          "text": "Thawborn Renewal: Jinhsi debut, phase 1 (2024-06-28)",
+          "affectedItems": [
+            "Jinhsi"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Ages of Harvest: Ages of Harvest debut, phase 1 (2024-06-28)",
+          "affectedItems": [
+            "Ages of Harvest"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Vermillion's Ploy: Changli debut, phase 2 (2024-07-22)",
+          "affectedItems": [
+            "Changli"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Blazing Brilliance: Blazing Brilliance debut, phase 2 (2024-07-22)",
+          "affectedItems": [
+            "Blazing Brilliance"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        }
+      ]
+    },
+    {
+      "id": "version-1.0",
+      "versionNumber": "1.0",
+      "title": "Version 1.0 - Waking of a World",
+      "releaseDate": "2024-05-23T10:00:00+08:00",
+      "type": "VERSION",
+      "summary": "4 banners across 2 phases. New resonators: Jiyan, Yinlin.",
+      "sourceUrl": "https://x.com/Wuthering_Waves/status/1773671444767002757",
+      "status": "CONFIRMED",
+      "lastUpdated": "2024-05-23T10:00:00+08:00",
+      "isSample": false,
+      "entries": [
+        {
+          "category": "NEW_CONTENT",
+          "text": "Prevail the Lasting Night: Jiyan debut, phase 1 (2024-05-23)",
+          "affectedItems": [
+            "Jiyan"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Verdant Summit: Verdant Summit debut, phase 1 (2024-05-23)",
+          "affectedItems": [
+            "Verdant Summit"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "When Thunder Pours: Yinlin debut, phase 2 (2024-06-06)",
+          "affectedItems": [
+            "Yinlin"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Stringmaster: Stringmaster debut, phase 2 (2024-06-06)",
+          "affectedItems": [
+            "Stringmaster"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        }
+      ]
+    }
+  ],
   "devNotes": [],
   "maintenance": []
 }
