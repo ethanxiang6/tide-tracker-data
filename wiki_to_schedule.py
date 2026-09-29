@@ -317,6 +317,65 @@ def build_banners(char_pages, weap_pages, windows, attrs, images):
     return ensure_unique_ids(banners, "banner")
 
 
+UPCOMING = os.path.join(os.path.dirname(os.path.abspath(__file__)), "upcoming.json")
+UPCOMING_PREFIX = "upcoming-"
+
+
+def load_upcoming(path=UPCOMING):
+    if not os.path.exists(path):
+        return {}
+    with open(path, encoding="utf-8") as f:
+        return json.load(f)
+
+
+def merge_upcoming(versions, banners, upcoming):
+    """Add announced banners the wiki hasn't written up yet (from upcoming.json).
+
+    A curated banner is skipped as soon as the wiki has a banner for the same item in the
+    same version, so the wiki always wins and upcoming.json never needs cleaning by hand.
+    Reruns inherit element, weapon type and rarity from the item's earlier wiki banners.
+    Curated phase dates fill a version's phases only while the wiki gives none.
+    """
+    have = {(b["type"], b["featured"].lower(), b["version"]) for b in banners}
+    earlier = {(b["type"], b["featured"].lower()): b for b in banners}
+    added = []
+    for u in upcoming.get("banners", []):
+        btype = (u.get("type") or "CHARACTER").upper()
+        featured = (u.get("featured") or "").strip()
+        ver = u.get("version")
+        if not featured or (btype, featured.lower(), ver) in have:
+            continue
+        prev = earlier.get((btype, featured.lower()), {})
+        added.append({
+            "id": slug(UPCOMING_PREFIX + btype, featured, ver),
+            "type": btype,
+            "name": u.get("name") or "",
+            "featured": featured,
+            "element": u.get("element") or prev.get("element"),
+            "weaponType": u.get("weaponType") or prev.get("weaponType"),
+            "rarity": u.get("rarity") or prev.get("rarity") or 5,
+            "start": u.get("start"),
+            "end": u.get("end"),
+            "version": ver,
+            "phase": u.get("phase"),
+            "isRerun": bool(prev),
+            "status": u.get("status") or "PREDICTED",
+            "dateNote": u.get("dateNote"),
+            "imageUrl": u.get("imageUrl"),
+            "note": u.get("note"),
+        })
+        have.add((btype, featured.lower(), ver))
+
+    for uv in upcoming.get("versions", []):
+        for v in versions:
+            if v["number"] == uv.get("number") and not v.get("phases"):
+                v["phases"] = uv.get("phases") or []
+
+    merged = banners + added
+    merged.sort(key=lambda b: (b["start"] or "9999", b["name"], b["featured"]))
+    return ensure_unique_ids(merged, "banner"), len(added)
+
+
 def build_release_history(banners):
     hist = {}
     for b in banners:
@@ -405,8 +464,8 @@ def build_patch_notes(versions, banners, links):
         debuts = [b["featured"] for b in rows if not b["isRerun"] and b["type"] == "CHARACTER"]
         entries = [{
             "category": "NEW_CONTENT",
-            "text": "%s: %s %s, phase %s (%s)" % (
-                b["name"], b["featured"],
+            "text": "%s%s %s, phase %s (%s)" % (
+                b["name"] + ": " if b["name"] else "", b["featured"],
                 "rerun" if b["isRerun"] else "debut",
                 b["phase"] or 1, day(b["start"])),
             "affectedItems": [b["featured"]],
@@ -456,14 +515,78 @@ def attributes(names):
     return out
 
 
+def log(m):
+    print(m, file=sys.stderr)
+
+
+def merge_only(out):
+    """Re-apply upcoming.json to an existing schedule.json without touching the wiki.
+
+    Earlier curated rows are dropped first, so running this twice is harmless. Release
+    history and version notes are rebuilt from the merged banners, exactly as a full run
+    would build them.
+    """
+    with open(out, encoding="utf-8") as f:
+        old = json.load(f)
+    links = {n["versionNumber"]: n.get("sourceUrl") for n in old.get("patchNotes", [])
+             if n.get("sourceUrl")}
+    wiki_banners = [b for b in old["banners"] if not b["id"].startswith(UPCOMING_PREFIX)]
+    versions = old["versions"]
+    banners, n = merge_upcoming(versions, wiki_banners, load_upcoming())
+    log("  %d upcoming banner(s) merged" % n)
+    write_doc(out, versions, banners, build_release_history(banners),
+              old.get("shop", []), old.get("events", []),
+              build_patch_notes(versions, banners, links))
+
+
+def write_doc(out, versions, banners, history, shop, events, notes):
+    doc = {
+        "schemaVersion": 1,
+        "lastUpdated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "notice": ("Dates, names and artwork from the Wuthering Waves Wiki "
+                   "(wutheringwaves.fandom.com), CC BY-SA 3.0. Community-maintained and "
+                   "unofficial; times are Asia server time (UTC+8). Version notes list each "
+                   "patch's banner line-up. Outfit prices are not published by the wiki. Dev "
+                   "notes and maintenance have no structured source and are left empty."),
+        "versions": versions,
+        "banners": banners,
+        "releaseHistory": history,
+        "shop": shop,
+        "events": events,
+        "patchNotes": notes,
+        "devNotes": [],
+        "maintenance": [],
+    }
+    # `lastUpdated` moves on every run, so compare everything else and leave the file
+    # alone when nothing real changed. A scheduled rebuild can then just check `git diff`.
+    if os.path.exists(out):
+        try:
+            with open(out, encoding="utf-8") as f:
+                old = json.load(f)
+            if {k: v for k, v in old.items() if k != "lastUpdated"} == \
+               {k: v for k, v in doc.items() if k != "lastUpdated"}:
+                log("unchanged, left %s as it was" % out)
+                return
+        except (OSError, ValueError):
+            pass                              # unreadable or not JSON: just overwrite
+
+    with open(out, "w", encoding="utf-8", newline="\n") as f:
+        json.dump(doc, f, indent=2, ensure_ascii=False)
+        f.write("\n")
+    log("wrote %s" % out)
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--out", required=True)
     ap.add_argument("--skip-events", action="store_true")
+    ap.add_argument("--merge-only", action="store_true",
+                    help="re-apply upcoming.json to the existing --out file; no wiki calls")
     args = ap.parse_args()
 
-    def log(m):
-        print(m, file=sys.stderr)
+    if args.merge_only:
+        merge_only(args.out)
+        return
 
     log("fetching version pages...")
     versions, links = build_versions(wikitext([t for t in allpages("Version/")
@@ -489,6 +612,8 @@ def main():
 
     windows = version_windows(versions)
     banners = build_banners(char_pages, weap_pages, windows, attrs, images)
+    banners, n = merge_upcoming(versions, banners, load_upcoming())
+    log("  %d announced banner(s) from upcoming.json not on the wiki yet" % n)
     history = build_release_history(banners)
     notes = build_patch_notes(versions, banners, links)
     log("  %d banners, %d tracked items, %d version notes" % (len(banners), len(history), len(notes)))
@@ -503,40 +628,7 @@ def main():
         events = build_events(wikitext(category("Events")), windows)
         log("  %d dated events" % len(events))
 
-    doc = {
-        "schemaVersion": 1,
-        "lastUpdated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
-        "notice": ("Dates, names and artwork from the Wuthering Waves Wiki "
-                   "(wutheringwaves.fandom.com), CC BY-SA 3.0. Community-maintained and "
-                   "unofficial; times are Asia server time (UTC+8). Version notes list each "
-                   "patch's banner line-up. Outfit prices are not published by the wiki. Dev "
-                   "notes and maintenance have no structured source and are left empty."),
-        "versions": versions,
-        "banners": banners,
-        "releaseHistory": history,
-        "shop": shop,
-        "events": events,
-        "patchNotes": notes,
-        "devNotes": [],
-        "maintenance": [],
-    }
-    # `lastUpdated` moves on every run, so compare everything else and leave the file
-    # alone when nothing real changed. A scheduled rebuild can then just check `git diff`.
-    if os.path.exists(args.out):
-        try:
-            with open(args.out, encoding="utf-8") as f:
-                old = json.load(f)
-            if {k: v for k, v in old.items() if k != "lastUpdated"} == \
-               {k: v for k, v in doc.items() if k != "lastUpdated"}:
-                log("unchanged, left %s as it was" % args.out)
-                return
-        except (OSError, ValueError):
-            pass                              # unreadable or not JSON: just overwrite
-
-    with open(args.out, "w", encoding="utf-8", newline="\n") as f:
-        json.dump(doc, f, indent=2, ensure_ascii=False)
-        f.write("\n")
-    log("wrote %s" % args.out)
+    write_doc(args.out, versions, banners, history, shop, events, notes)
 
 
 if __name__ == "__main__":

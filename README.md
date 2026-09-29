@@ -14,7 +14,7 @@ https://raw.githubusercontent.com/ethanxiang6/tide-tracker-data/main/schedule.js
 | Section | Source | Filled |
 |---|---|---|
 | `versions` | `{{Version}}` infoboxes on `Version/*` pages | yes |
-| `banners` | `{{Convene}}` + `{{Convene/Pool}}` on the Featured Resonator / Featured Weapon Convene pages | yes |
+| `banners` | `{{Convene}}` + `{{Convene/Pool}}` on the Featured Resonator / Featured Weapon Convene pages, plus announced banners from `upcoming.json` | yes |
 | `releaseHistory` | derived from banner start dates | yes |
 | `events` | `{{Event}}` infoboxes on dated pages in `Category:Events` | yes |
 | `shop`, `patchNotes`, `devNotes`, `maintenance` | — | **empty on purpose** |
@@ -22,6 +22,22 @@ https://raw.githubusercontent.com/ethanxiang6/tide-tracker-data/main/schedule.js
 The wiki has no structured source for the last four. They stay empty rather than
 being filled with invented entries — the app renders an empty state for them, which
 is honest where placeholder data would not be.
+
+## Announced banners the wiki hasn't caught up with
+
+The wiki only gets banner pages a few days before (or after) a version goes live, so a
+freshly announced line-up would otherwise be missing from the app. Add it to
+`upcoming.json` instead: each entry is a normal banner (`type`, `featured`, `version`,
+`phase`, `start`, `end`, `status`, `dateNote`). Reruns can leave out `element`,
+`weaponType` and `rarity`; they are copied from the item's earlier banners.
+
+Every run merges these in, and drops each one by itself once the wiki has a banner for
+the same item in the same version, so the file never needs cleaning up. Editing it on
+`main` triggers a rebuild. To apply it locally without calling the wiki:
+
+```bash
+python wiki_to_schedule.py --out schedule.json --merge-only
+```
 
 ## How it updates
 

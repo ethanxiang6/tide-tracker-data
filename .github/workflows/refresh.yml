@@ -8,6 +8,10 @@ on:
   schedule:
     - cron: "17 3 * * *"
   workflow_dispatch:
+  # Editing the curated list or the builder rebuilds straight away instead of waiting a day.
+  push:
+    branches: [main]
+    paths: ["upcoming.json", "wiki_to_schedule.py"]
 
 permissions:
   contents: write

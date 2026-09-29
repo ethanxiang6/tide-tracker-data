@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-09-26T08:39:38Z",
+  "lastUpdated": "2026-09-29T00:46:43Z",
   "notice": "Dates, names and artwork from the Wuthering Waves Wiki (wutheringwaves.fandom.com), CC BY-SA 3.0. Community-maintained and unofficial; times are Asia server time (UTC+8). Version notes list each patch's banner line-up. Outfit prices are not published by the wiki. Dev notes and maintenance have no structured source and are left empty.",
   "versions": [
     {
@@ -197,7 +197,18 @@
       "name": "Prism's Illusion, Heart's Illumination",
       "startDate": "2026-09-30T11:00:00+08:00",
       "endDate": null,
-      "phases": [],
+      "phases": [
+        {
+          "number": 1,
+          "startDate": "2026-09-30T11:00:00+08:00",
+          "endDate": "2026-10-22"
+        },
+        {
+          "number": 2,
+          "startDate": "2026-10-22",
+          "endDate": "2026-11-11"
+        }
+      ],
       "status": "CONFIRMED",
       "dateNote": "End date not yet announced"
     }
@@ -2938,6 +2949,150 @@
       "dateNote": "Times are Asia server time (UTC+8)",
       "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/c/c0/Where_Santu_Beckons_2026-09-10.jpg/revision/latest/scale-to-width-down/640?cb=20260919125928",
       "note": null
+    },
+    {
+      "id": "upcoming-character-chisa-3.7",
+      "type": "CHARACTER",
+      "name": "",
+      "featured": "Chisa",
+      "element": "HAVOC",
+      "weaponType": "BROADBLADE",
+      "rarity": 5,
+      "start": "2026-09-30T11:00:00+08:00",
+      "end": "2026-10-22",
+      "version": "3.7",
+      "phase": 1,
+      "isRerun": true,
+      "status": "CONFIRMED",
+      "dateNote": "Line-up from the official Version 3.7 livestream (Sep 19, 2026). Start is Asia server time (UTC+8); the end date is from community guides.",
+      "imageUrl": null,
+      "note": null
+    },
+    {
+      "id": "upcoming-character-hsin-3.7",
+      "type": "CHARACTER",
+      "name": "",
+      "featured": "Hsin",
+      "element": "ELECTRO",
+      "weaponType": "RECTIFIER",
+      "rarity": 5,
+      "start": "2026-09-30T11:00:00+08:00",
+      "end": "2026-10-22",
+      "version": "3.7",
+      "phase": 1,
+      "isRerun": false,
+      "status": "CONFIRMED",
+      "dateNote": "Line-up from the official Version 3.7 livestream (Sep 19, 2026). Start is Asia server time (UTC+8); the end date is from community guides.",
+      "imageUrl": null,
+      "note": null
+    },
+    {
+      "id": "upcoming-character-iuno-3.7",
+      "type": "CHARACTER",
+      "name": "",
+      "featured": "Iuno",
+      "element": "AERO",
+      "weaponType": "GAUNTLETS",
+      "rarity": 5,
+      "start": "2026-09-30T11:00:00+08:00",
+      "end": "2026-10-22",
+      "version": "3.7",
+      "phase": 1,
+      "isRerun": true,
+      "status": "CONFIRMED",
+      "dateNote": "Line-up from the official Version 3.7 livestream (Sep 19, 2026). Start is Asia server time (UTC+8); the end date is from community guides.",
+      "imageUrl": null,
+      "note": null
+    },
+    {
+      "id": "upcoming-weapon-blooming-jadehaven-3.7",
+      "type": "WEAPON",
+      "name": "Absolute Pulsation: Blooming Jadehaven",
+      "featured": "Blooming Jadehaven",
+      "element": null,
+      "weaponType": "RECTIFIER",
+      "rarity": 5,
+      "start": "2026-09-30T11:00:00+08:00",
+      "end": "2026-10-22",
+      "version": "3.7",
+      "phase": 1,
+      "isRerun": false,
+      "status": "CONFIRMED",
+      "dateNote": "Hsin's signature weapon, from the official Version 3.7 livestream. The end date is from community guides.",
+      "imageUrl": null,
+      "note": null
+    },
+    {
+      "id": "upcoming-character-lucilla-3.7",
+      "type": "CHARACTER",
+      "name": "",
+      "featured": "Lucilla",
+      "element": "GLACIO",
+      "weaponType": "RECTIFIER",
+      "rarity": 5,
+      "start": "2026-10-22",
+      "end": "2026-11-11",
+      "version": "3.7",
+      "phase": 2,
+      "isRerun": true,
+      "status": "CONFIRMED",
+      "dateNote": "Line-up from the official Version 3.7 livestream (Sep 19, 2026). Phase 2 dates are from community guides.",
+      "imageUrl": null,
+      "note": null
+    },
+    {
+      "id": "upcoming-character-lynae-3.7",
+      "type": "CHARACTER",
+      "name": "",
+      "featured": "Lynae",
+      "element": "SPECTRO",
+      "weaponType": "PISTOLS",
+      "rarity": 5,
+      "start": "2026-10-22",
+      "end": "2026-11-11",
+      "version": "3.7",
+      "phase": 2,
+      "isRerun": true,
+      "status": "CONFIRMED",
+      "dateNote": "Line-up from the official Version 3.7 livestream (Sep 19, 2026). Phase 2 dates are from community guides.",
+      "imageUrl": null,
+      "note": null
+    },
+    {
+      "id": "upcoming-character-suoming-3.7",
+      "type": "CHARACTER",
+      "name": "",
+      "featured": "Suoming",
+      "element": "ELECTRO",
+      "weaponType": "SWORD",
+      "rarity": 5,
+      "start": "2026-10-22",
+      "end": "2026-11-11",
+      "version": "3.7",
+      "phase": 2,
+      "isRerun": false,
+      "status": "CONFIRMED",
+      "dateNote": "Line-up from the official Version 3.7 livestream (Sep 19, 2026). Phase 2 dates are from community guides.",
+      "imageUrl": null,
+      "note": null
+    },
+    {
+      "id": "upcoming-weapon-unspoken-rue-3.7",
+      "type": "WEAPON",
+      "name": "Absolute Pulsation: Unspoken Rue",
+      "featured": "Unspoken Rue",
+      "element": null,
+      "weaponType": "SWORD",
+      "rarity": 5,
+      "start": "2026-10-22",
+      "end": "2026-11-11",
+      "version": "3.7",
+      "phase": 2,
+      "isRerun": false,
+      "status": "CONFIRMED",
+      "dateNote": "Suoming's signature weapon, from the official Version 3.7 livestream. Phase 2 dates are from community guides.",
+      "imageUrl": null,
+      "note": null
     }
   ],
   "releaseHistory": [
@@ -2987,6 +3142,13 @@
         "2025-04-29",
         "2025-10-30",
         "2026-04-09"
+      ]
+    },
+    {
+      "item": "Blooming Jadehaven",
+      "kind": "WEAPON",
+      "dates": [
+        "2026-09-30"
       ]
     },
     {
@@ -3045,7 +3207,8 @@
       "dates": [
         "2025-11-20",
         "2026-02-05",
-        "2026-05-21"
+        "2026-05-21",
+        "2026-09-30"
       ]
     },
     {
@@ -3152,12 +3315,20 @@
       ]
     },
     {
+      "item": "Hsin",
+      "kind": "CHARACTER",
+      "dates": [
+        "2026-09-30"
+      ]
+    },
+    {
       "item": "Iuno",
       "kind": "CHARACTER",
       "dates": [
         "2025-09-17",
         "2026-01-15",
-        "2026-04-30"
+        "2026-04-30",
+        "2026-09-30"
       ]
     },
     {
@@ -3205,7 +3376,8 @@
       "item": "Lucilla",
       "kind": "CHARACTER",
       "dates": [
-        "2026-06-13"
+        "2026-06-13",
+        "2026-10-22"
       ]
     },
     {
@@ -3248,7 +3420,8 @@
       "dates": [
         "2025-12-25",
         "2026-04-09",
-        "2026-07-10"
+        "2026-07-10",
+        "2026-10-22"
       ]
     },
     {
@@ -3392,6 +3565,13 @@
       ]
     },
     {
+      "item": "Suoming",
+      "kind": "CHARACTER",
+      "dates": [
+        "2026-10-22"
+      ]
+    },
+    {
       "item": "The Last Dance",
       "kind": "WEAPON",
       "dates": [
@@ -3428,6 +3608,13 @@
       "dates": [
         "2025-03-06",
         "2025-08-14"
+      ]
+    },
+    {
+      "item": "Unspoken Rue",
+      "kind": "WEAPON",
+      "dates": [
+        "2026-10-22"
       ]
     },
     {
@@ -7615,6 +7802,92 @@
     }
   ],
   "patchNotes": [
+    {
+      "id": "version-3.7",
+      "versionNumber": "3.7",
+      "title": "Version 3.7 - Prism's Illusion, Heart's Illumination",
+      "releaseDate": "2026-09-30T11:00:00+08:00",
+      "type": "VERSION",
+      "summary": "8 banners across 2 phases. New resonators: Hsin, Suoming.",
+      "sourceUrl": null,
+      "status": "CONFIRMED",
+      "lastUpdated": "2026-09-30T11:00:00+08:00",
+      "isSample": false,
+      "entries": [
+        {
+          "category": "NEW_CONTENT",
+          "text": "Chisa rerun, phase 1 (2026-09-30)",
+          "affectedItems": [
+            "Chisa"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Hsin debut, phase 1 (2026-09-30)",
+          "affectedItems": [
+            "Hsin"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Iuno rerun, phase 1 (2026-09-30)",
+          "affectedItems": [
+            "Iuno"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Blooming Jadehaven: Blooming Jadehaven debut, phase 1 (2026-09-30)",
+          "affectedItems": [
+            "Blooming Jadehaven"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Lucilla rerun, phase 2 (2026-10-22)",
+          "affectedItems": [
+            "Lucilla"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Lynae rerun, phase 2 (2026-10-22)",
+          "affectedItems": [
+            "Lynae"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Suoming debut, phase 2 (2026-10-22)",
+          "affectedItems": [
+            "Suoming"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Unspoken Rue: Unspoken Rue debut, phase 2 (2026-10-22)",
+          "affectedItems": [
+            "Unspoken Rue"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        }
+      ]
+    },
     {
       "id": "version-3.6",
       "versionNumber": "3.6",

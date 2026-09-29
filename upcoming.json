@@ -1,0 +1,62 @@
+{
+  "_readme": "Banners that have been announced but don't have wiki pages yet. wiki_to_schedule.py merges these in on every run and drops each one automatically as soon as the wiki has a banner for the same resonator or weapon in the same version, so nothing here needs cleaning up by hand. Leave element, weaponType and rarity out for reruns: they are copied from the item's earlier banners. Date-only values show as approximate in the app.",
+  "versions": [
+    {
+      "number": "3.7",
+      "phases": [
+        { "number": 1, "startDate": "2026-09-30T11:00:00+08:00", "endDate": "2026-10-22" },
+        { "number": 2, "startDate": "2026-10-22", "endDate": "2026-11-11" }
+      ]
+    }
+  ],
+  "banners": [
+    {
+      "type": "CHARACTER", "featured": "Hsin", "element": "ELECTRO", "weaponType": "RECTIFIER",
+      "version": "3.7", "phase": 1, "start": "2026-09-30T11:00:00+08:00", "end": "2026-10-22",
+      "status": "CONFIRMED",
+      "dateNote": "Line-up from the official Version 3.7 livestream (Sep 19, 2026). Start is Asia server time (UTC+8); the end date is from community guides."
+    },
+    {
+      "type": "CHARACTER", "featured": "Iuno",
+      "version": "3.7", "phase": 1, "start": "2026-09-30T11:00:00+08:00", "end": "2026-10-22",
+      "status": "CONFIRMED",
+      "dateNote": "Line-up from the official Version 3.7 livestream (Sep 19, 2026). Start is Asia server time (UTC+8); the end date is from community guides."
+    },
+    {
+      "type": "CHARACTER", "featured": "Chisa",
+      "version": "3.7", "phase": 1, "start": "2026-09-30T11:00:00+08:00", "end": "2026-10-22",
+      "status": "CONFIRMED",
+      "dateNote": "Line-up from the official Version 3.7 livestream (Sep 19, 2026). Start is Asia server time (UTC+8); the end date is from community guides."
+    },
+    {
+      "type": "WEAPON", "featured": "Blooming Jadehaven", "name": "Absolute Pulsation: Blooming Jadehaven", "weaponType": "RECTIFIER", "rarity": 5,
+      "version": "3.7", "phase": 1, "start": "2026-09-30T11:00:00+08:00", "end": "2026-10-22",
+      "status": "CONFIRMED",
+      "dateNote": "Hsin's signature weapon, from the official Version 3.7 livestream. The end date is from community guides."
+    },
+    {
+      "type": "CHARACTER", "featured": "Suoming", "element": "ELECTRO", "weaponType": "SWORD",
+      "version": "3.7", "phase": 2, "start": "2026-10-22", "end": "2026-11-11",
+      "status": "CONFIRMED",
+      "dateNote": "Line-up from the official Version 3.7 livestream (Sep 19, 2026). Phase 2 dates are from community guides."
+    },
+    {
+      "type": "CHARACTER", "featured": "Lynae",
+      "version": "3.7", "phase": 2, "start": "2026-10-22", "end": "2026-11-11",
+      "status": "CONFIRMED",
+      "dateNote": "Line-up from the official Version 3.7 livestream (Sep 19, 2026). Phase 2 dates are from community guides."
+    },
+    {
+      "type": "CHARACTER", "featured": "Lucilla",
+      "version": "3.7", "phase": 2, "start": "2026-10-22", "end": "2026-11-11",
+      "status": "CONFIRMED",
+      "dateNote": "Line-up from the official Version 3.7 livestream (Sep 19, 2026). Phase 2 dates are from community guides."
+    },
+    {
+      "type": "WEAPON", "featured": "Unspoken Rue", "name": "Absolute Pulsation: Unspoken Rue", "weaponType": "SWORD", "rarity": 5,
+      "version": "3.7", "phase": 2, "start": "2026-10-22", "end": "2026-11-11",
+      "status": "CONFIRMED",
+      "dateNote": "Suoming's signature weapon, from the official Version 3.7 livestream. Phase 2 dates are from community guides."
+    }
+  ]
+}
