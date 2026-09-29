@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-09-29T00:46:43Z",
+  "lastUpdated": "2026-09-29T00:47:06Z",
   "notice": "Dates, names and artwork from the Wuthering Waves Wiki (wutheringwaves.fandom.com), CC BY-SA 3.0. Community-maintained and unofficial; times are Asia server time (UTC+8). Version notes list each patch's banner line-up. Outfit prices are not published by the wiki. Dev notes and maintenance have no structured source and are left empty.",
   "versions": [
     {
@@ -7809,7 +7809,7 @@
       "releaseDate": "2026-09-30T11:00:00+08:00",
       "type": "VERSION",
       "summary": "8 banners across 2 phases. New resonators: Hsin, Suoming.",
-      "sourceUrl": null,
+      "sourceUrl": "https://wutheringwaves.kurogames.com/en/main/news/detail/5476",
       "status": "CONFIRMED",
       "lastUpdated": "2026-09-30T11:00:00+08:00",
       "isSample": false,
