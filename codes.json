@@ -1,0 +1,31 @@
+{
+  "updated": "2026-09-29",
+  "codes": [
+    {
+      "code": "WUTHERINGGIFT",
+      "rewards": "50 Astrite, 2 Premium Resonance Potions, 2 Medium Revival Inhalers, 2 Medium Energy Bags, Shell Credits",
+      "note": "Permanent code."
+    },
+    {
+      "code": "FALLINGSANCTUM",
+      "rewards": "100 Astrite, 3 Premium Resonance Potions, 2 Advanced Revival Inhalers",
+      "added": "2026-09-19",
+      "expires": "2026-09-21",
+      "note": "Version 3.7 livestream code."
+    },
+    {
+      "code": "FINDSENTINEL",
+      "rewards": "100 Astrite, 2 Premium Enclosure Tank III, 40,000 Shell Credits",
+      "added": "2026-09-19",
+      "expires": "2026-09-21",
+      "note": "Version 3.7 livestream code."
+    },
+    {
+      "code": "WAKINGMOON",
+      "rewards": "100 Astrite, 20 Premium Tuners, 5 Advanced Sealed Tubes",
+      "added": "2026-09-19",
+      "expires": "2026-09-21",
+      "note": "Version 3.7 livestream code."
+    }
+  ]
+}

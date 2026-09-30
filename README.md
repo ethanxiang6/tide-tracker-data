@@ -70,3 +70,10 @@ is offered under the same terms.
 This is community-maintained, unofficial data. It lags the game: a new version's banner
 pages only appear here once someone has written them on the wiki. Not affiliated with
 or endorsed by Kuro Games.
+
+## codes.json
+
+Redeem codes shown on the app's Redeem codes screen. Edited by hand: add new codes at the top when a
+livestream announces them, with `expires` as an ISO date (a plain date means the code works through
+that day) or `"expired": true` once a code is known to be dead. The app checks this file on launch
+and every 12 hours, and notifies when an active code appears that it hadn't seen.
