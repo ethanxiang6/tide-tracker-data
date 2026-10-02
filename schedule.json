@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-09-30T09:46:34Z",
+  "lastUpdated": "2026-10-02T09:50:46Z",
   "notice": "Dates, names and artwork from the Wuthering Waves Wiki (wutheringwaves.fandom.com), CC BY-SA 3.0. Community-maintained and unofficial; times are Asia server time (UTC+8). Version notes list each patch's banner line-up. Outfit prices are not published by the wiki. Dev notes and maintenance have no structured source and are left empty.",
   "versions": [
     {
@@ -187,10 +187,10 @@
       "number": "3.6",
       "name": "Lamplight in Mirage, Sword's Resolve in Heart",
       "startDate": "2026-08-20T10:00:00+08:00",
-      "endDate": null,
+      "endDate": "2026-09-30T03:59:00+08:00",
       "phases": [],
       "status": "CONFIRMED",
-      "dateNote": "End date not yet announced"
+      "dateNote": null
     },
     {
       "number": "3.7",
@@ -2951,61 +2951,7 @@
       "note": null
     },
     {
-      "id": "upcoming-character-chisa-3.7",
-      "type": "CHARACTER",
-      "name": "",
-      "featured": "Chisa",
-      "element": "HAVOC",
-      "weaponType": "BROADBLADE",
-      "rarity": 5,
-      "start": "2026-09-30T11:00:00+08:00",
-      "end": "2026-10-22",
-      "version": "3.7",
-      "phase": 1,
-      "isRerun": true,
-      "status": "CONFIRMED",
-      "dateNote": "Line-up from the official Version 3.7 livestream (Sep 19, 2026). Start is Asia server time (UTC+8); the end date is from community guides.",
-      "imageUrl": null,
-      "note": null
-    },
-    {
-      "id": "upcoming-character-hsin-3.7",
-      "type": "CHARACTER",
-      "name": "",
-      "featured": "Hsin",
-      "element": "ELECTRO",
-      "weaponType": "RECTIFIER",
-      "rarity": 5,
-      "start": "2026-09-30T11:00:00+08:00",
-      "end": "2026-10-22",
-      "version": "3.7",
-      "phase": 1,
-      "isRerun": false,
-      "status": "CONFIRMED",
-      "dateNote": "Line-up from the official Version 3.7 livestream (Sep 19, 2026). Start is Asia server time (UTC+8); the end date is from community guides.",
-      "imageUrl": null,
-      "note": null
-    },
-    {
-      "id": "upcoming-character-iuno-3.7",
-      "type": "CHARACTER",
-      "name": "",
-      "featured": "Iuno",
-      "element": "AERO",
-      "weaponType": "GAUNTLETS",
-      "rarity": 5,
-      "start": "2026-09-30T11:00:00+08:00",
-      "end": "2026-10-22",
-      "version": "3.7",
-      "phase": 1,
-      "isRerun": true,
-      "status": "CONFIRMED",
-      "dateNote": "Line-up from the official Version 3.7 livestream (Sep 19, 2026). Start is Asia server time (UTC+8); the end date is from community guides.",
-      "imageUrl": null,
-      "note": null
-    },
-    {
-      "id": "upcoming-weapon-blooming-jadehaven-3.7",
+      "id": "absolute-pulsation-blooming-jadehaven-2026-09-30",
       "type": "WEAPON",
       "name": "Absolute Pulsation: Blooming Jadehaven",
       "featured": "Blooming Jadehaven",
@@ -3013,13 +2959,103 @@
       "weaponType": "RECTIFIER",
       "rarity": 5,
       "start": "2026-09-30T11:00:00+08:00",
-      "end": "2026-10-22",
+      "end": "2026-10-22T09:59:00+08:00",
       "version": "3.7",
       "phase": 1,
       "isRerun": false,
       "status": "CONFIRMED",
-      "dateNote": "Hsin's signature weapon, from the official Version 3.7 livestream. The end date is from community guides.",
-      "imageUrl": null,
+      "dateNote": "Times are Asia server time (UTC+8)",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/3/3f/Absolute_Pulsation_Blooming_Jadehaven_2026-09-30.jpg/revision/latest/scale-to-width-down/640?cb=20261002081130",
+      "note": null
+    },
+    {
+      "id": "absolute-pulsation-kumokiri-2026-09-30",
+      "type": "WEAPON",
+      "name": "Absolute Pulsation: Kumokiri",
+      "featured": "Kumokiri",
+      "element": null,
+      "weaponType": "BROADBLADE",
+      "rarity": 5,
+      "start": "2026-09-30T11:00:00+08:00",
+      "end": "2026-10-22T09:59:00+08:00",
+      "version": "3.7",
+      "phase": 1,
+      "isRerun": true,
+      "status": "CONFIRMED",
+      "dateNote": "Times are Asia server time (UTC+8)",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/0/00/Absolute_Pulsation_Kumokiri_2026-09-30.jpg/revision/latest/scale-to-width-down/640?cb=20261002081122",
+      "note": null
+    },
+    {
+      "id": "absolute-pulsation-moongazer-s-sigil-2026-09-30",
+      "type": "WEAPON",
+      "name": "Absolute Pulsation: Moongazer's Sigil",
+      "featured": "Moongazer's Sigil",
+      "element": null,
+      "weaponType": "GAUNTLETS",
+      "rarity": 5,
+      "start": "2026-09-30T11:00:00+08:00",
+      "end": "2026-10-22T09:59:00+08:00",
+      "version": "3.7",
+      "phase": 1,
+      "isRerun": true,
+      "status": "CONFIRMED",
+      "dateNote": "Times are Asia server time (UTC+8)",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/8/8e/Absolute_Pulsation_Moongazer%27s_Sigil_2026-09-30.jpg/revision/latest/scale-to-width-down/640?cb=20261002081123",
+      "note": null
+    },
+    {
+      "id": "across-time-s-waxes-and-wanes-2026-09-30",
+      "type": "CHARACTER",
+      "name": "Across Time's Waxes and Wanes",
+      "featured": "Iuno",
+      "element": "AERO",
+      "weaponType": "GAUNTLETS",
+      "rarity": 5,
+      "start": "2026-09-30T11:00:00+08:00",
+      "end": "2026-10-22T09:59:00+08:00",
+      "version": "3.7",
+      "phase": 1,
+      "isRerun": true,
+      "status": "CONFIRMED",
+      "dateNote": "Times are Asia server time (UTC+8)",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/6/64/Across_Time%27s_Waxes_and_Wanes_2026-09-30.jpg/revision/latest/scale-to-width-down/640?cb=20261002080920",
+      "note": null
+    },
+    {
+      "id": "as-full-as-tonight-forever-2026-09-30",
+      "type": "CHARACTER",
+      "name": "As Full as Tonight, Forever",
+      "featured": "Hsin",
+      "element": "ELECTRO",
+      "weaponType": "RECTIFIER",
+      "rarity": 5,
+      "start": "2026-09-30T11:00:00+08:00",
+      "end": "2026-10-22T09:59:00+08:00",
+      "version": "3.7",
+      "phase": 1,
+      "isRerun": false,
+      "status": "CONFIRMED",
+      "dateNote": "Times are Asia server time (UTC+8)",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/f/fb/As_Full_as_Tonight%2C_Forever_2026-09-30.jpg/revision/latest/scale-to-width-down/640?cb=20261002080803",
+      "note": null
+    },
+    {
+      "id": "horizon-of-dawnbreak-2026-09-30",
+      "type": "CHARACTER",
+      "name": "Horizon of Dawnbreak",
+      "featured": "Chisa",
+      "element": "HAVOC",
+      "weaponType": "BROADBLADE",
+      "rarity": 5,
+      "start": "2026-09-30T11:00:00+08:00",
+      "end": "2026-10-22T09:59:00+08:00",
+      "version": "3.7",
+      "phase": 1,
+      "isRerun": true,
+      "status": "CONFIRMED",
+      "dateNote": "Times are Asia server time (UTC+8)",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/5/58/Horizon_of_Dawnbreak_2026-09-30.jpg/revision/latest/scale-to-width-down/640?cb=20261002080922",
       "note": null
     },
     {
@@ -3360,7 +3396,8 @@
       "dates": [
         "2025-11-20",
         "2026-02-05",
-        "2026-05-21"
+        "2026-05-21",
+        "2026-09-30"
       ]
     },
     {
@@ -3430,7 +3467,8 @@
       "dates": [
         "2025-09-17",
         "2026-01-15",
-        "2026-04-30"
+        "2026-04-30",
+        "2026-09-30"
       ]
     },
     {
@@ -7808,24 +7846,24 @@
       "title": "Version 3.7 - Prism's Illusion, Heart's Illumination",
       "releaseDate": "2026-09-30T11:00:00+08:00",
       "type": "VERSION",
-      "summary": "8 banners across 2 phases. New resonators: Hsin, Suoming.",
-      "sourceUrl": "https://wutheringwaves.kurogames.com/en/main/news/detail/5529",
+      "summary": "10 banners across 2 phases. New resonators: Hsin, Suoming.",
+      "sourceUrl": "https://wutheringwaves.kurogames.com/en/main/news/detail/5571",
       "status": "CONFIRMED",
       "lastUpdated": "2026-09-30T11:00:00+08:00",
       "isSample": false,
       "entries": [
         {
           "category": "NEW_CONTENT",
-          "text": "Chisa rerun, phase 1 (2026-09-30)",
+          "text": "Across Time's Waxes and Wanes: Iuno rerun, phase 1 (2026-09-30)",
           "affectedItems": [
-            "Chisa"
+            "Iuno"
           ],
           "platform": "ALL",
           "impact": "NONE"
         },
         {
           "category": "NEW_CONTENT",
-          "text": "Hsin debut, phase 1 (2026-09-30)",
+          "text": "As Full as Tonight, Forever: Hsin debut, phase 1 (2026-09-30)",
           "affectedItems": [
             "Hsin"
           ],
@@ -7834,9 +7872,9 @@
         },
         {
           "category": "NEW_CONTENT",
-          "text": "Iuno rerun, phase 1 (2026-09-30)",
+          "text": "Horizon of Dawnbreak: Chisa rerun, phase 1 (2026-09-30)",
           "affectedItems": [
-            "Iuno"
+            "Chisa"
           ],
           "platform": "ALL",
           "impact": "NONE"
@@ -7846,6 +7884,24 @@
           "text": "Absolute Pulsation: Blooming Jadehaven: Blooming Jadehaven debut, phase 1 (2026-09-30)",
           "affectedItems": [
             "Blooming Jadehaven"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Kumokiri: Kumokiri rerun, phase 1 (2026-09-30)",
+          "affectedItems": [
+            "Kumokiri"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Moongazer's Sigil: Moongazer's Sigil rerun, phase 1 (2026-09-30)",
+          "affectedItems": [
+            "Moongazer's Sigil"
           ],
           "platform": "ALL",
           "impact": "NONE"
