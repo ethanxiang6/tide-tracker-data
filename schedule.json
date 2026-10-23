@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-10-16T08:15:33Z",
+  "lastUpdated": "2026-10-23T08:37:04Z",
   "notice": "Dates, names and artwork from the Wuthering Waves Wiki (wutheringwaves.fandom.com), CC BY-SA 3.0. Community-maintained and unofficial; times are Asia server time (UTC+8). Version notes list each patch's banner line-up. Outfit prices are not published by the wiki. Dev notes and maintenance have no structured source and are left empty.",
   "versions": [
     {
@@ -3059,75 +3059,111 @@
       "note": null
     },
     {
-      "id": "upcoming-character-lucilla-3.7",
-      "type": "CHARACTER",
-      "name": "",
-      "featured": "Lucilla",
-      "element": "GLACIO",
+      "id": "absolute-pulsation-freeze-frame-2026-10-22",
+      "type": "WEAPON",
+      "name": "Absolute Pulsation: Freeze Frame",
+      "featured": "Freeze Frame",
+      "element": null,
       "weaponType": "RECTIFIER",
       "rarity": 5,
-      "start": "2026-10-22",
-      "end": "2026-11-11",
+      "start": "2026-10-22T10:00:00+08:00",
+      "end": "2026-11-11T11:59:00+08:00",
       "version": "3.7",
       "phase": 2,
       "isRerun": true,
       "status": "CONFIRMED",
-      "dateNote": "Line-up from the official Version 3.7 livestream (Sep 19, 2026). Phase 2 dates are from community guides.",
-      "imageUrl": null,
+      "dateNote": "Times are Asia server time (UTC+8)",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/2/2e/Absolute_Pulsation_Freeze_Frame_2026-10-22.jpg/revision/latest/scale-to-width-down/640?cb=20261022185734",
       "note": null
     },
     {
-      "id": "upcoming-character-lynae-3.7",
-      "type": "CHARACTER",
-      "name": "",
-      "featured": "Lynae",
-      "element": "SPECTRO",
+      "id": "absolute-pulsation-spectrum-blaster-2026-10-22",
+      "type": "WEAPON",
+      "name": "Absolute Pulsation: Spectrum Blaster",
+      "featured": "Spectrum Blaster",
+      "element": null,
       "weaponType": "PISTOLS",
       "rarity": 5,
-      "start": "2026-10-22",
-      "end": "2026-11-11",
+      "start": "2026-10-22T10:00:00+08:00",
+      "end": "2026-11-11T11:59:00+08:00",
       "version": "3.7",
       "phase": 2,
       "isRerun": true,
       "status": "CONFIRMED",
-      "dateNote": "Line-up from the official Version 3.7 livestream (Sep 19, 2026). Phase 2 dates are from community guides.",
-      "imageUrl": null,
+      "dateNote": "Times are Asia server time (UTC+8)",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/9/97/Absolute_Pulsation_Spectrum_Blaster_2026-10-22.jpg/revision/latest/scale-to-width-down/640?cb=20261022185736",
       "note": null
     },
     {
-      "id": "upcoming-character-suoming-3.7",
-      "type": "CHARACTER",
-      "name": "",
-      "featured": "Suoming",
-      "element": "ELECTRO",
-      "weaponType": "SWORD",
-      "rarity": 5,
-      "start": "2026-10-22",
-      "end": "2026-11-11",
-      "version": "3.7",
-      "phase": 2,
-      "isRerun": false,
-      "status": "CONFIRMED",
-      "dateNote": "Line-up from the official Version 3.7 livestream (Sep 19, 2026). Phase 2 dates are from community guides.",
-      "imageUrl": null,
-      "note": null
-    },
-    {
-      "id": "upcoming-weapon-unspoken-rue-3.7",
+      "id": "absolute-pulsation-unspoken-rue-2026-10-22",
       "type": "WEAPON",
       "name": "Absolute Pulsation: Unspoken Rue",
       "featured": "Unspoken Rue",
       "element": null,
       "weaponType": "SWORD",
       "rarity": 5,
-      "start": "2026-10-22",
-      "end": "2026-11-11",
+      "start": "2026-10-22T10:00:00+08:00",
+      "end": "2026-11-11T11:59:00+08:00",
       "version": "3.7",
       "phase": 2,
       "isRerun": false,
       "status": "CONFIRMED",
-      "dateNote": "Suoming's signature weapon, from the official Version 3.7 livestream. Phase 2 dates are from community guides.",
-      "imageUrl": null,
+      "dateNote": "Times are Asia server time (UTC+8)",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/7/72/Absolute_Pulsation_Unspoken_Rue_2026-10-22.jpg/revision/latest/scale-to-width-down/640?cb=20261022185736",
+      "note": null
+    },
+    {
+      "id": "nine-deaths-one-unbent-heart-2026-10-22",
+      "type": "CHARACTER",
+      "name": "Nine Deaths, One Unbent Heart",
+      "featured": "Suoming",
+      "element": "ELECTRO",
+      "weaponType": "SWORD",
+      "rarity": 5,
+      "start": "2026-10-22T10:00:00+08:00",
+      "end": "2026-11-11T11:59:00+08:00",
+      "version": "3.7",
+      "phase": 2,
+      "isRerun": false,
+      "status": "CONFIRMED",
+      "dateNote": "Times are Asia server time (UTC+8)",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/a/a3/Nine_Deaths%2C_One_Unbent_Heart_2026-10-22.jpg/revision/latest/scale-to-width-down/640?cb=20261022185300",
+      "note": null
+    },
+    {
+      "id": "tomorrow-in-the-frame-2026-10-22",
+      "type": "CHARACTER",
+      "name": "Tomorrow in the Frame",
+      "featured": "Lucilla",
+      "element": "GLACIO",
+      "weaponType": "RECTIFIER",
+      "rarity": 5,
+      "start": "2026-10-22T10:00:00+08:00",
+      "end": "2026-11-11T11:59:00+08:00",
+      "version": "3.7",
+      "phase": 2,
+      "isRerun": true,
+      "status": "CONFIRMED",
+      "dateNote": "Times are Asia server time (UTC+8)",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/4/48/Tomorrow_in_the_Frame_2026-10-22.jpg/revision/latest/scale-to-width-down/640?cb=20261022185451",
+      "note": null
+    },
+    {
+      "id": "undefined-spectrum-2026-10-22",
+      "type": "CHARACTER",
+      "name": "Undefined Spectrum",
+      "featured": "Lynae",
+      "element": "SPECTRO",
+      "weaponType": "PISTOLS",
+      "rarity": 5,
+      "start": "2026-10-22T10:00:00+08:00",
+      "end": "2026-11-11T11:59:00+08:00",
+      "version": "3.7",
+      "phase": 2,
+      "isRerun": true,
+      "status": "CONFIRMED",
+      "dateNote": "Times are Asia server time (UTC+8)",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/0/01/Undefined_Spectrum_2026-10-22.jpg/revision/latest/scale-to-width-down/640?cb=20261022185448",
       "note": null
     }
   ],
@@ -3316,7 +3352,8 @@
       "item": "Freeze Frame",
       "kind": "WEAPON",
       "dates": [
-        "2026-06-13"
+        "2026-06-13",
+        "2026-10-22"
       ]
     },
     {
@@ -3566,7 +3603,8 @@
       "dates": [
         "2025-12-25",
         "2026-04-09",
-        "2026-07-10"
+        "2026-07-10",
+        "2026-10-22"
       ]
     },
     {
@@ -4133,6 +4171,20 @@
       "isSample": false
     },
     {
+      "id": "gilded-sable-suoming",
+      "name": "Gilded Sable",
+      "category": "OUTFIT",
+      "character": "Suoming",
+      "price": null,
+      "currency": null,
+      "availability": "PERMANENT",
+      "start": "2026-10-22",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/f/fb/Suoming_Full_Sprite.png/revision/latest/scale-to-width-down/480?cb=20261023030257",
+      "isSample": false
+    },
+    {
       "id": "halcyon-days-of-harvest-suisui",
       "name": "Halcyon Days of Harvest",
       "category": "OUTFIT",
@@ -4564,6 +4616,20 @@
       "end": null,
       "status": "CONFIRMED",
       "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/d/da/Carlotta_Full_Sprite.png/revision/latest/scale-to-width-down/480?cb=20250103065623",
+      "isSample": false
+    },
+    {
+      "id": "true-to-heart-hsin",
+      "name": "True to Heart",
+      "category": "OUTFIT",
+      "character": "Hsin",
+      "price": null,
+      "currency": null,
+      "availability": "PERMANENT",
+      "start": "2026-09-30",
+      "end": null,
+      "status": "CONFIRMED",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/0/08/Hsin_Full_Sprite.png/revision/latest/scale-to-width-down/480?cb=20261001060352",
       "isSample": false
     },
     {
@@ -7856,7 +7922,7 @@
       "title": "Version 3.7 - Prism's Illusion, Heart's Illumination",
       "releaseDate": "2026-09-30T11:00:00+08:00",
       "type": "VERSION",
-      "summary": "10 banners across 2 phases. New resonators: Hsin, Suoming.",
+      "summary": "12 banners across 2 phases. New resonators: Hsin, Suoming.",
       "sourceUrl": "https://wutheringwaves.kurogames.com/en/main/news/detail/5571",
       "status": "CONFIRMED",
       "lastUpdated": "2026-09-30T11:00:00+08:00",
@@ -7918,7 +7984,16 @@
         },
         {
           "category": "NEW_CONTENT",
-          "text": "Lucilla rerun, phase 2 (2026-10-22)",
+          "text": "Nine Deaths, One Unbent Heart: Suoming debut, phase 2 (2026-10-22)",
+          "affectedItems": [
+            "Suoming"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Tomorrow in the Frame: Lucilla rerun, phase 2 (2026-10-22)",
           "affectedItems": [
             "Lucilla"
           ],
@@ -7927,7 +8002,7 @@
         },
         {
           "category": "NEW_CONTENT",
-          "text": "Lynae rerun, phase 2 (2026-10-22)",
+          "text": "Undefined Spectrum: Lynae rerun, phase 2 (2026-10-22)",
           "affectedItems": [
             "Lynae"
           ],
@@ -7936,9 +8011,18 @@
         },
         {
           "category": "NEW_CONTENT",
-          "text": "Suoming debut, phase 2 (2026-10-22)",
+          "text": "Absolute Pulsation: Freeze Frame: Freeze Frame rerun, phase 2 (2026-10-22)",
           "affectedItems": [
-            "Suoming"
+            "Freeze Frame"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Spectrum Blaster: Spectrum Blaster rerun, phase 2 (2026-10-22)",
+          "affectedItems": [
+            "Spectrum Blaster"
           ],
           "platform": "ALL",
           "impact": "NONE"
