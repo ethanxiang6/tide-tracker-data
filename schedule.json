@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-11-07T10:19:21Z",
+  "lastUpdated": "2026-11-08T10:28:38Z",
   "notice": "Dates, names and artwork from the Wuthering Waves Wiki (wutheringwaves.fandom.com), CC BY-SA 3.0. Community-maintained and unofficial; times are Asia server time (UTC+8). Version notes list each patch's banner line-up. Outfit prices are not published by the wiki. Dev notes and maintenance have no structured source and are left empty.",
   "versions": [
     {
@@ -214,11 +214,11 @@
     },
     {
       "number": "3.8",
-      "name": "",
-      "startDate": null,
+      "name": "Lilies in a Dying Dream",
+      "startDate": "2026-11-12T11:00:00+08:00",
       "endDate": null,
       "phases": [],
-      "status": "PREDICTED",
+      "status": "CONFIRMED",
       "dateNote": "End date not yet announced"
     }
   ],
@@ -3185,12 +3185,12 @@
       "rarity": 5,
       "start": "2026-11-12T10:00:00+08:00",
       "end": "2026-12-03T11:59:00+08:00",
-      "version": "3.7",
-      "phase": 2,
+      "version": "3.8",
+      "phase": 1,
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/4/4e/Bloom_of_Yesterday%27s_Dreamsoil_2026-11-12.jpg/revision/latest/scale-to-width-down/640?cb=20261108085750",
       "note": null
     }
   ],
@@ -6643,6 +6643,66 @@
       "isSample": false
     },
     {
+      "id": "pioneer-podcast-2026-03-19",
+      "name": "Pioneer Podcast",
+      "start": "2026-03-19T11:00:00+08:00",
+      "end": "2026-04-29",
+      "rewardsSummary": "",
+      "version": "3.2",
+      "status": "CONFIRMED",
+      "isSample": false
+    },
+    {
+      "id": "pioneer-podcast-2026-04-30",
+      "name": "Pioneer Podcast",
+      "start": "2026-04-30T08:21:00+08:00",
+      "end": "2026-06-07T03:59:00+08:00",
+      "rewardsSummary": "",
+      "version": "3.3",
+      "status": "CONFIRMED",
+      "isSample": false
+    },
+    {
+      "id": "pioneer-podcast-2026-06-08",
+      "name": "Pioneer Podcast",
+      "start": "2026-06-08T08:43:00+08:00",
+      "end": "2026-07-09T03:59:00+08:00",
+      "rewardsSummary": "",
+      "version": "3.4",
+      "status": "CONFIRMED",
+      "isSample": false
+    },
+    {
+      "id": "pioneer-podcast-2026-07-10",
+      "name": "Pioneer Podcast",
+      "start": "2026-07-10T09:10:00+08:00",
+      "end": "2026-08-19T03:59:00+08:00",
+      "rewardsSummary": "",
+      "version": "3.5",
+      "status": "CONFIRMED",
+      "isSample": false
+    },
+    {
+      "id": "pioneer-podcast-2026-08-20",
+      "name": "Pioneer Podcast",
+      "start": "2026-08-20T10:00:00+08:00",
+      "end": "2026-09-29T03:59:00+08:00",
+      "rewardsSummary": "",
+      "version": "3.6",
+      "status": "CONFIRMED",
+      "isSample": false
+    },
+    {
+      "id": "pioneer-podcast-2026-09-30",
+      "name": "Pioneer Podcast",
+      "start": "2026-09-30T11:00:00+08:00",
+      "end": "2026-11-11T03:59:00+08:00",
+      "rewardsSummary": "",
+      "version": "3.7",
+      "status": "CONFIRMED",
+      "isSample": false
+    },
+    {
       "id": "prints-of-plateaus-2025-08-28",
       "name": "Prints of Plateaus",
       "start": "2025-08-28T10:00:00+08:00",
@@ -7965,12 +8025,35 @@
   ],
   "patchNotes": [
     {
+      "id": "version-3.8",
+      "versionNumber": "3.8",
+      "title": "Version 3.8 - Lilies in a Dying Dream",
+      "releaseDate": "2026-11-12T11:00:00+08:00",
+      "type": "VERSION",
+      "summary": "1 banners across 1 phases. New resonators: Lily.",
+      "sourceUrl": "https://wutheringwaves.kurogames.com/en/main/news/detail/5705",
+      "status": "CONFIRMED",
+      "lastUpdated": "2026-11-12T11:00:00+08:00",
+      "isSample": false,
+      "entries": [
+        {
+          "category": "NEW_CONTENT",
+          "text": "Bloom of Yesterday's Dreamsoil: Lily debut, phase 1 (2026-11-12)",
+          "affectedItems": [
+            "Lily"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        }
+      ]
+    },
+    {
       "id": "version-3.7",
       "versionNumber": "3.7",
       "title": "Version 3.7 - Prism's Illusion, Heart's Illumination",
       "releaseDate": "2026-09-30T11:00:00+08:00",
       "type": "VERSION",
-      "summary": "13 banners across 2 phases. New resonators: Hsin, Suoming, Lily.",
+      "summary": "12 banners across 2 phases. New resonators: Hsin, Suoming.",
       "sourceUrl": "https://wutheringwaves.kurogames.com/en/main/news/detail/5571",
       "status": "CONFIRMED",
       "lastUpdated": "2026-09-30T11:00:00+08:00",
@@ -8080,15 +8163,6 @@
           "text": "Absolute Pulsation: Unspoken Rue: Unspoken Rue debut, phase 2 (2026-10-22)",
           "affectedItems": [
             "Unspoken Rue"
-          ],
-          "platform": "ALL",
-          "impact": "NONE"
-        },
-        {
-          "category": "NEW_CONTENT",
-          "text": "Bloom of Yesterday's Dreamsoil: Lily debut, phase 2 (2026-11-12)",
-          "affectedItems": [
-            "Lily"
           ],
           "platform": "ALL",
           "impact": "NONE"
