@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-11-08T10:28:38Z",
+  "lastUpdated": "2026-11-10T11:17:58Z",
   "notice": "Dates, names and artwork from the Wuthering Waves Wiki (wutheringwaves.fandom.com), CC BY-SA 3.0. Community-maintained and unofficial; times are Asia server time (UTC+8). Version notes list each patch's banner line-up. Outfit prices are not published by the wiki. Dev notes and maintenance have no structured source and are left empty.",
   "versions": [
     {
@@ -216,10 +216,10 @@
       "number": "3.8",
       "name": "Lilies in a Dying Dream",
       "startDate": "2026-11-12T11:00:00+08:00",
-      "endDate": null,
+      "endDate": "2026-12-21T03:59:00+08:00",
       "phases": [],
       "status": "CONFIRMED",
-      "dateNote": "End date not yet announced"
+      "dateNote": null
     }
   ],
   "banners": [
@@ -3176,6 +3176,60 @@
       "note": null
     },
     {
+      "id": "absolute-pulsation-emerald-sentence-2026-11-12",
+      "type": "WEAPON",
+      "name": "Absolute Pulsation: Emerald Sentence",
+      "featured": "Emerald Sentence",
+      "element": null,
+      "weaponType": "SWORD",
+      "rarity": 5,
+      "start": "2026-11-12T11:00:00+08:00",
+      "end": "2026-12-03T09:59:00+08:00",
+      "version": "3.8",
+      "phase": 1,
+      "isRerun": true,
+      "status": "CONFIRMED",
+      "dateNote": "Times are Asia server time (UTC+8)",
+      "imageUrl": null,
+      "note": null
+    },
+    {
+      "id": "absolute-pulsation-lullaby-2026-11-12",
+      "type": "WEAPON",
+      "name": "Absolute Pulsation: Lullaby",
+      "featured": "Lullaby",
+      "element": null,
+      "weaponType": "PISTOLS",
+      "rarity": 5,
+      "start": "2026-11-12T11:00:00+08:00",
+      "end": "2026-12-03T09:59:00+08:00",
+      "version": "3.8",
+      "phase": 1,
+      "isRerun": false,
+      "status": "CONFIRMED",
+      "dateNote": "Times are Asia server time (UTC+8)",
+      "imageUrl": null,
+      "note": null
+    },
+    {
+      "id": "absolute-pulsation-solsworn-ciphers-2026-11-12",
+      "type": "WEAPON",
+      "name": "Absolute Pulsation: Solsworn Ciphers",
+      "featured": "Solsworn Ciphers",
+      "element": null,
+      "weaponType": "GAUNTLETS",
+      "rarity": 5,
+      "start": "2026-11-12T11:00:00+08:00",
+      "end": "2026-12-03T09:59:00+08:00",
+      "version": "3.8",
+      "phase": 1,
+      "isRerun": true,
+      "status": "CONFIRMED",
+      "dateNote": "Times are Asia server time (UTC+8)",
+      "imageUrl": null,
+      "note": null
+    },
+    {
       "id": "bloom-of-yesterday-s-dreamsoil-2026-11-12",
       "type": "CHARACTER",
       "name": "Bloom of Yesterday's Dreamsoil",
@@ -3183,14 +3237,158 @@
       "element": "SPECTRO",
       "weaponType": "PISTOLS",
       "rarity": 5,
-      "start": "2026-11-12T10:00:00+08:00",
-      "end": "2026-12-03T11:59:00+08:00",
+      "start": "2026-11-12T11:00:00+08:00",
+      "end": "2026-12-03T09:59:00+08:00",
       "version": "3.8",
       "phase": 1,
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
       "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/4/4e/Bloom_of_Yesterday%27s_Dreamsoil_2026-11-12.jpg/revision/latest/scale-to-width-down/640?cb=20261108085750",
+      "note": null
+    },
+    {
+      "id": "wanderer-knows-no-far-and-near-2026-11-12",
+      "type": "CHARACTER",
+      "name": "Wanderer Knows No Far and Near",
+      "featured": "Qiuyuan",
+      "element": "AERO",
+      "weaponType": "SWORD",
+      "rarity": 5,
+      "start": "2026-11-12T11:00:00+08:00",
+      "end": "2026-12-03T09:59:00+08:00",
+      "version": "3.8",
+      "phase": 1,
+      "isRerun": true,
+      "status": "CONFIRMED",
+      "dateNote": "Times are Asia server time (UTC+8)",
+      "imageUrl": null,
+      "note": null
+    },
+    {
+      "id": "when-the-runes-glitter-2026-11-12",
+      "type": "CHARACTER",
+      "name": "When the Runes Glitter",
+      "featured": "Sigrika",
+      "element": "AERO",
+      "weaponType": "GAUNTLETS",
+      "rarity": 5,
+      "start": "2026-11-12T11:00:00+08:00",
+      "end": "2026-12-03T09:59:00+08:00",
+      "version": "3.8",
+      "phase": 1,
+      "isRerun": true,
+      "status": "CONFIRMED",
+      "dateNote": "Times are Asia server time (UTC+8)",
+      "imageUrl": null,
+      "note": null
+    },
+    {
+      "id": "absolute-pulsation-azure-oath-2026-12-03",
+      "type": "WEAPON",
+      "name": "Absolute Pulsation: Azure Oath",
+      "featured": "Azure Oath",
+      "element": null,
+      "weaponType": "SWORD",
+      "rarity": 5,
+      "start": "2026-12-03T10:00:00+08:00",
+      "end": "2026-12-21T03:59:00+08:00",
+      "version": "3.8",
+      "phase": 2,
+      "isRerun": true,
+      "status": "CONFIRMED",
+      "dateNote": "Times are Asia server time (UTC+8)",
+      "imageUrl": null,
+      "note": null
+    },
+    {
+      "id": "absolute-pulsation-firstlight-s-herald-2026-12-03",
+      "type": "WEAPON",
+      "name": "Absolute Pulsation: Firstlight's Herald",
+      "featured": "Firstlight's Herald",
+      "element": null,
+      "weaponType": "RECTIFIER",
+      "rarity": 5,
+      "start": "2026-12-03T10:00:00+08:00",
+      "end": "2026-12-21T03:59:00+08:00",
+      "version": "3.8",
+      "phase": 2,
+      "isRerun": true,
+      "status": "CONFIRMED",
+      "dateNote": "Times are Asia server time (UTC+8)",
+      "imageUrl": null,
+      "note": null
+    },
+    {
+      "id": "absolute-pulsation-frostburn-2026-12-03",
+      "type": "WEAPON",
+      "name": "Absolute Pulsation: Frostburn",
+      "featured": "Frostburn",
+      "element": null,
+      "weaponType": "SWORD",
+      "rarity": 5,
+      "start": "2026-12-03T10:00:00+08:00",
+      "end": "2026-12-21T03:59:00+08:00",
+      "version": "3.8",
+      "phase": 2,
+      "isRerun": true,
+      "status": "CONFIRMED",
+      "dateNote": "Times are Asia server time (UTC+8)",
+      "imageUrl": null,
+      "note": null
+    },
+    {
+      "id": "blessings-from-dewy-winds-2026-12-03",
+      "type": "CHARACTER",
+      "name": "Blessings From Dewy Winds",
+      "featured": "Suisui",
+      "element": "GLACIO",
+      "weaponType": "RECTIFIER",
+      "rarity": 5,
+      "start": "2026-12-03T10:00:00+08:00",
+      "end": "2026-12-21T03:59:00+08:00",
+      "version": "3.8",
+      "phase": 2,
+      "isRerun": true,
+      "status": "CONFIRMED",
+      "dateNote": "Times are Asia server time (UTC+8)",
+      "imageUrl": null,
+      "note": null
+    },
+    {
+      "id": "thousand-futures-mirrored-in-snow-2026-12-03",
+      "type": "CHARACTER",
+      "name": "Thousand Futures Mirrored in Snow",
+      "featured": "Hiyuki",
+      "element": "GLACIO",
+      "weaponType": "SWORD",
+      "rarity": 5,
+      "start": "2026-12-03T10:00:00+08:00",
+      "end": "2026-12-21T03:59:00+08:00",
+      "version": "3.8",
+      "phase": 2,
+      "isRerun": true,
+      "status": "CONFIRMED",
+      "dateNote": "Times are Asia server time (UTC+8)",
+      "imageUrl": null,
+      "note": null
+    },
+    {
+      "id": "voices-on-azure-feathers-2026-12-03",
+      "type": "CHARACTER",
+      "name": "Voices on Azure Feathers",
+      "featured": "Yangyang: Xuanling",
+      "element": "HAVOC",
+      "weaponType": "SWORD",
+      "rarity": 5,
+      "start": "2026-12-03T10:00:00+08:00",
+      "end": "2026-12-21T03:59:00+08:00",
+      "version": "3.8",
+      "phase": 2,
+      "isRerun": true,
+      "status": "CONFIRMED",
+      "dateNote": "Times are Asia server time (UTC+8)",
+      "imageUrl": null,
       "note": null
     }
   ],
@@ -3223,7 +3421,8 @@
       "item": "Azure Oath",
       "kind": "WEAPON",
       "dates": [
-        "2026-07-10"
+        "2026-07-10",
+        "2026-12-03"
       ]
     },
     {
@@ -3349,7 +3548,8 @@
       "kind": "WEAPON",
       "dates": [
         "2025-10-30",
-        "2026-03-19"
+        "2026-03-19",
+        "2026-11-12"
       ]
     },
     {
@@ -3364,7 +3564,8 @@
       "item": "Firstlight's Herald",
       "kind": "WEAPON",
       "dates": [
-        "2026-07-30"
+        "2026-07-30",
+        "2026-12-03"
       ]
     },
     {
@@ -3388,7 +3589,8 @@
       "kind": "WEAPON",
       "dates": [
         "2026-04-30",
-        "2026-09-10"
+        "2026-09-10",
+        "2026-12-03"
       ]
     },
     {
@@ -3411,7 +3613,8 @@
       "kind": "CHARACTER",
       "dates": [
         "2026-04-30",
-        "2026-09-10"
+        "2026-09-10",
+        "2026-12-03"
       ]
     },
     {
@@ -3486,6 +3689,13 @@
       "dates": [
         "2026-06-13",
         "2026-10-22"
+      ]
+    },
+    {
+      "item": "Lullaby",
+      "kind": "WEAPON",
+      "dates": [
+        "2026-11-12"
       ]
     },
     {
@@ -3581,7 +3791,8 @@
       "kind": "CHARACTER",
       "dates": [
         "2025-10-30",
-        "2026-03-19"
+        "2026-03-19",
+        "2026-11-12"
       ]
     },
     {
@@ -3621,14 +3832,16 @@
       "item": "Sigrika",
       "kind": "CHARACTER",
       "dates": [
-        "2026-03-19"
+        "2026-03-19",
+        "2026-11-12"
       ]
     },
     {
       "item": "Solsworn Ciphers",
       "kind": "WEAPON",
       "dates": [
-        "2026-03-19"
+        "2026-03-19",
+        "2026-11-12"
       ]
     },
     {
@@ -3671,7 +3884,8 @@
       "item": "Suisui",
       "kind": "CHARACTER",
       "dates": [
-        "2026-07-30"
+        "2026-07-30",
+        "2026-12-03"
       ]
     },
     {
@@ -3782,7 +3996,8 @@
       "item": "Yangyang: Xuanling",
       "kind": "CHARACTER",
       "dates": [
-        "2026-07-10"
+        "2026-07-10",
+        "2026-12-03"
       ]
     },
     {
@@ -8030,8 +8245,8 @@
       "title": "Version 3.8 - Lilies in a Dying Dream",
       "releaseDate": "2026-11-12T11:00:00+08:00",
       "type": "VERSION",
-      "summary": "1 banners across 1 phases. New resonators: Lily.",
-      "sourceUrl": "https://wutheringwaves.kurogames.com/en/main/news/detail/5705",
+      "summary": "12 banners across 2 phases. New resonators: Lily.",
+      "sourceUrl": "https://wutheringwaves.kurogames.com/en/main/news/detail/5736",
       "status": "CONFIRMED",
       "lastUpdated": "2026-11-12T11:00:00+08:00",
       "isSample": false,
@@ -8041,6 +8256,105 @@
           "text": "Bloom of Yesterday's Dreamsoil: Lily debut, phase 1 (2026-11-12)",
           "affectedItems": [
             "Lily"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Wanderer Knows No Far and Near: Qiuyuan rerun, phase 1 (2026-11-12)",
+          "affectedItems": [
+            "Qiuyuan"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "When the Runes Glitter: Sigrika rerun, phase 1 (2026-11-12)",
+          "affectedItems": [
+            "Sigrika"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Emerald Sentence: Emerald Sentence rerun, phase 1 (2026-11-12)",
+          "affectedItems": [
+            "Emerald Sentence"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Lullaby: Lullaby debut, phase 1 (2026-11-12)",
+          "affectedItems": [
+            "Lullaby"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Solsworn Ciphers: Solsworn Ciphers rerun, phase 1 (2026-11-12)",
+          "affectedItems": [
+            "Solsworn Ciphers"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Blessings From Dewy Winds: Suisui rerun, phase 2 (2026-12-03)",
+          "affectedItems": [
+            "Suisui"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Thousand Futures Mirrored in Snow: Hiyuki rerun, phase 2 (2026-12-03)",
+          "affectedItems": [
+            "Hiyuki"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Voices on Azure Feathers: Yangyang: Xuanling rerun, phase 2 (2026-12-03)",
+          "affectedItems": [
+            "Yangyang: Xuanling"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Azure Oath: Azure Oath rerun, phase 2 (2026-12-03)",
+          "affectedItems": [
+            "Azure Oath"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Firstlight's Herald: Firstlight's Herald rerun, phase 2 (2026-12-03)",
+          "affectedItems": [
+            "Firstlight's Herald"
+          ],
+          "platform": "ALL",
+          "impact": "NONE"
+        },
+        {
+          "category": "NEW_CONTENT",
+          "text": "Absolute Pulsation: Frostburn: Frostburn rerun, phase 2 (2026-12-03)",
+          "affectedItems": [
+            "Frostburn"
           ],
           "platform": "ALL",
           "impact": "NONE"
