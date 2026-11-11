@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-11-10T11:17:58Z",
+  "lastUpdated": "2026-11-11T11:04:43Z",
   "notice": "Dates, names and artwork from the Wuthering Waves Wiki (wutheringwaves.fandom.com), CC BY-SA 3.0. Community-maintained and unofficial; times are Asia server time (UTC+8). Version notes list each patch's banner line-up. Outfit prices are not published by the wiki. Dev notes and maintenance have no structured source and are left empty.",
   "versions": [
     {
@@ -3190,7 +3190,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/d/db/Absolute_Pulsation_Emerald_Sentence_2026-11-12.jpg/revision/latest/scale-to-width-down/640?cb=20261111060142",
       "note": null
     },
     {
@@ -3208,7 +3208,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/8/84/Absolute_Pulsation_Lullaby_2026-11-12.jpg/revision/latest/scale-to-width-down/640?cb=20261111054655",
       "note": null
     },
     {
@@ -3226,7 +3226,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/6/67/Absolute_Pulsation_Solsworn_Ciphers_2026-11-12.jpg/revision/latest/scale-to-width-down/640?cb=20261111060140",
       "note": null
     },
     {
@@ -3244,7 +3244,7 @@
       "isRerun": false,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/4/4e/Bloom_of_Yesterday%27s_Dreamsoil_2026-11-12.jpg/revision/latest/scale-to-width-down/640?cb=20261108085750",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/4/4e/Bloom_of_Yesterday%27s_Dreamsoil_2026-11-12.jpg/revision/latest/scale-to-width-down/640?cb=20261111054510",
       "note": null
     },
     {
@@ -3262,7 +3262,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/8/8d/Wanderer_Knows_No_Far_and_Near_2026-11-12.jpg/revision/latest/scale-to-width-down/640?cb=20261111060205",
       "note": null
     },
     {
@@ -3280,7 +3280,7 @@
       "isRerun": true,
       "status": "CONFIRMED",
       "dateNote": "Times are Asia server time (UTC+8)",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/e/e1/When_the_Runes_Glitter_2026-11-12.jpg/revision/latest/scale-to-width-down/640?cb=20261111060330",
       "note": null
     },
     {
@@ -4371,7 +4371,7 @@
       "price": null,
       "currency": null,
       "availability": "LIMITED",
-      "start": null,
+      "start": "2025-01-23",
       "end": null,
       "status": "CONFIRMED",
       "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/1/1a/Exorcistic_Adjuration_Splash_Art.png/revision/latest/scale-to-width-down/480?cb=20250106124429",
@@ -4623,10 +4623,10 @@
       "price": null,
       "currency": null,
       "availability": "LIMITED",
-      "start": "2026-11-13",
+      "start": "2026-11-12",
       "end": null,
       "status": "CONFIRMED",
-      "imageUrl": null,
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/c/c6/Lune_Noire_Splash_Art.png/revision/latest/scale-to-width-down/480?cb=20261110115734",
       "isSample": false
     },
     {
@@ -4682,7 +4682,7 @@
       "start": "2026-07-10",
       "end": null,
       "status": "CONFIRMED",
-      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/4/47/Peach_Parfait_Showcase_1.jpg/revision/latest/scale-to-width-down/480?cb=20260705103353",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/c/c8/Peach_Parfait_Splash_Art.png/revision/latest/scale-to-width-down/480?cb=20261110153405",
       "isSample": false
     },
     {
@@ -4696,7 +4696,7 @@
       "start": "2026-07-10",
       "end": null,
       "status": "CONFIRMED",
-      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/2/2e/Peppermint_Showcase_1.jpg/revision/latest/scale-to-width-down/480?cb=20260705101654",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/f/f9/Peppermint_Splash_Art.png/revision/latest/scale-to-width-down/480?cb=20261110162904",
       "isSample": false
     },
     {
@@ -4707,7 +4707,7 @@
       "price": null,
       "currency": null,
       "availability": "LIMITED",
-      "start": null,
+      "start": "2026-02-05",
       "end": null,
       "status": "CONFIRMED",
       "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/4/48/Perpetual_Spark_Splash_Art.png/revision/latest/scale-to-width-down/480?cb=20260722171956",
@@ -4738,7 +4738,7 @@
       "start": "2026-04-30",
       "end": null,
       "status": "CONFIRMED",
-      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/5/5f/Plush_Dream_Splash_Art.png/revision/latest/scale-to-width-down/480?cb=20260419111609",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/5/5f/Plush_Dream_Splash_Art.png/revision/latest/scale-to-width-down/480?cb=20261110150200",
       "isSample": false
     },
     {
