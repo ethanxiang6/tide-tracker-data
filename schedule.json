@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-11-15T11:01:45Z",
+  "lastUpdated": "2026-11-24T13:49:55Z",
   "notice": "Dates, names and artwork from the Wuthering Waves Wiki (wutheringwaves.fandom.com), CC BY-SA 3.0. Community-maintained and unofficial; times are Asia server time (UTC+8). Version notes list each patch's banner line-up. Outfit prices are not published by the wiki. Dev notes and maintenance have no structured source and are left empty.",
   "versions": [
     {
@@ -4430,7 +4430,7 @@
       "start": "2026-10-22",
       "end": null,
       "status": "CONFIRMED",
-      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/f/fb/Suoming_Full_Sprite.png/revision/latest/scale-to-width-down/480?cb=20261023030257",
+      "imageUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/f/fb/Suoming_Full_Sprite.png/revision/latest/scale-to-width-down/480?cb=20261123160005",
       "isSample": false
     },
     {
@@ -6521,7 +6521,7 @@
       "id": "mingshen-notices-2026-07-10",
       "name": "Mingshen Notices",
       "start": "2026-07-10T09:10:00+08:00",
-      "end": "2026-08-20T03:59:00+08:00",
+      "end": null,
       "rewardsSummary": "",
       "version": "3.5",
       "status": "CONFIRMED",
